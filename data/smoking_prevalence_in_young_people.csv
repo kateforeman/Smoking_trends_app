@@ -1,0 +1,316 @@
+FeatureCode,DateCode,Measurement,Units,Value,Age,Gender,Smoking Behaviour
+S92000003,2004,Percent,Percent Of Pupils,10,All,Male,Used to smoke
+S92000003,2008,Percent,Percent Of Pupils,75,13 years,Male,Never smoked
+S92000003,2013,Percent,Percent Of Pupils,1,13 years,Male,Occasional smoker
+S92000003,2008,Percent,Percent Of Pupils,4,13 years,Male,Used to smoke
+S92000003,2008,Percent,Percent Of Pupils,7,15 years,Male,Used to smoke
+S92000003,2004,Percent,Percent Of Pupils,5,15 years,Male,Occasional smoker
+S92000003,2013,Percent,Percent Of Pupils,3,15 years,Male,Occasional smoker
+S92000003,2015,Percent,Percent Of Pupils,71,15 years,Male,Never smoked
+S92000003,2004,Percent,Percent Of Pupils,3,All,Male,Occasional smoker
+S92000003,2008,Percent,Percent Of Pupils,65,All,Male,Never smoked
+S92000003,2015,Percent,Percent Of Pupils,79,All,Male,Never smoked
+S92000003,2002,Percent,Percent Of Pupils,11,All,Male,Used to smoke
+S92000003,2004,Percent,Percent Of Pupils,10,15 years,Male,Used to smoke
+S92000003,2006,Percent,Percent Of Pupils,7,All,Male,Used to smoke
+S92000003,2006,Percent,Percent Of Pupils,6,13 years,Male,Used to smoke
+S92000003,2004,Percent,Percent Of Pupils,9,13 years,Male,Used to smoke
+S92000003,2006,Percent,Percent Of Pupils,9,15 years,Male,Used to smoke
+S92000003,2002,Percent,Percent Of Pupils,10,13 years,Male,Used to smoke
+S92000003,2006,Percent,Percent Of Pupils,4,15 years,Male,Occasional smoker
+S92000003,2010,Percent,Percent Of Pupils,5,15 years,Male,Occasional smoker
+S92000003,2008,Percent,Percent Of Pupils,3,13 years,Male,Occasional smoker
+S92000003,2002,Percent,Percent Of Pupils,4,All,Male,Occasional smoker
+S92000003,2008,Percent,Percent Of Pupils,4,All,Male,Occasional smoker
+S92000003,2010,Percent,Percent Of Pupils,3,13 years,Male,Occasional smoker
+S92000003,2013,Percent,Percent Of Pupils,86,13 years,Male,Never smoked
+S92000003,2013,Percent,Percent Of Pupils,69,15 years,Male,Never smoked
+S92000003,2006,Percent,Percent Of Pupils,3,All,Male,Occasional smoker
+S92000003,2015,Percent,Percent Of Pupils,3,All,Male,Occasional smoker
+S92000003,2002,Percent,Percent Of Pupils,5,15 years,Male,Occasional smoker
+S92000003,2002,Percent,Percent Of Pupils,3,13 years,Male,Occasional smoker
+S92000003,2015,Percent,Percent Of Pupils,4,15 years,Male,Occasional smoker
+S92000003,2002,Percent,Percent Of Pupils,48,15 years,Male,Never smoked
+S92000003,2015,Percent,Percent Of Pupils,1,13 years,Male,Occasional smoker
+S92000003,2004,Percent,Percent Of Pupils,50,15 years,Male,Never smoked
+S92000003,2013,Percent,Percent Of Pupils,2,All,Male,Occasional smoker
+S92000003,2004,Percent,Percent Of Pupils,2,13 years,Male,Occasional smoker
+S92000003,2008,Percent,Percent Of Pupils,18,15 years,Male,Tried once
+S92000003,2002,Percent,Percent Of Pupils,20,13 years,Male,Tried once
+S92000003,2015,Percent,Percent Of Pupils,13,15 years,Male,Tried once
+S92000003,2013,Percent,Percent Of Pupils,11,All,Male,Tried once
+S92000003,2015,Percent,Percent Of Pupils,10,All,Male,Tried once
+S92000003,2004,Percent,Percent Of Pupils,21,15 years,Male,Tried once
+S92000003,2006,Percent,Percent Of Pupils,15,13 years,Male,Tried once
+S92000003,2002,Percent,Percent Of Pupils,19,15 years,Male,Tried once
+S92000003,2010,Percent,Percent Of Pupils,15,All,Male,Tried once
+S92000003,2008,Percent,Percent Of Pupils,16,All,Male,Tried once
+S92000003,2010,Percent,Percent Of Pupils,18,15 years,Male,Tried once
+S92000003,2008,Percent,Percent Of Pupils,14,13 years,Male,Tried once
+S92000003,2010,Percent,Percent Of Pupils,11,13 years,Male,Tried once
+S92000003,2006,Percent,Percent Of Pupils,16,All,Male,Tried once
+S92000003,2002,Percent,Percent Of Pupils,19,All,Male,Tried once
+S92000003,2004,Percent,Percent Of Pupils,18,13 years,Male,Tried once
+S92000003,2006,Percent,Percent Of Pupils,18,15 years,Male,Tried once
+S92000003,2015,Percent,Percent Of Pupils,7,13 years,Male,Tried once
+S92000003,2002,Percent,Percent Of Pupils,55,All,Male,Never smoked
+S92000003,2015,Percent,Percent Of Pupils,2,13 years,Male,Used to smoke
+S92000003,2013,Percent,Percent Of Pupils,6,15 years,Male,Used to smoke
+S92000003,2015,Percent,Percent Of Pupils,3,All,Male,Used to smoke
+S92000003,2010,Percent,Percent Of Pupils,3,13 years,Male,Used to smoke
+S92000003,2008,Percent,Percent Of Pupils,55,15 years,Male,Never smoked
+S92000003,2002,Percent,Percent Of Pupils,13,15 years,Male,Used to smoke
+S92000003,2013,Percent,Percent Of Pupils,4,All,Male,Used to smoke
+S92000003,2015,Percent,Percent Of Pupils,5,15 years,Male,Used to smoke
+S92000003,2004,Percent,Percent Of Pupils,19,All,Male,Tried once
+S92000003,2013,Percent,Percent Of Pupils,2,13 years,Male,Used to smoke
+S92000003,2013,Percent,Percent Of Pupils,14,15 years,Male,Tried once
+S92000003,2013,Percent,Percent Of Pupils,9,13 years,Male,Tried once
+S92000003,2002,Percent,Percent Of Pupils,62,13 years,Male,Never smoked
+S92000003,2010,Percent,Percent Of Pupils,7,15 years,Male,Used to smoke
+S92000003,2008,Percent,Percent Of Pupils,6,All,Male,Used to smoke
+S92000003,2010,Percent,Percent Of Pupils,5,All,Male,Used to smoke
+S92000003,2006,Percent,Percent Of Pupils,56,15 years,Male,Never smoked
+S92000003,2010,Percent,Percent Of Pupils,7,All,Male,Regular smoker
+S92000003,2008,Percent,Percent Of Pupils,14,15 years,Male,Regular smoker
+S92000003,2002,Percent,Percent Of Pupils,6,13 years,Male,Regular smoker
+S92000003,2008,Percent,Percent Of Pupils,3,13 years,Male,Regular smoker
+S92000003,2013,Percent,Percent Of Pupils,2,13 years,Male,Regular smoker
+S92000003,2006,Percent,Percent Of Pupils,75,13 years,Male,Never smoked
+S92000003,2006,Percent,Percent Of Pupils,8,All,Male,Regular smoker
+S92000003,2010,Percent,Percent Of Pupils,3,13 years,Male,Regular smoker
+S92000003,2002,Percent,Percent Of Pupils,11,All,Male,Regular smoker
+S92000003,2004,Percent,Percent Of Pupils,58,All,Male,Never smoked
+S92000003,2015,Percent,Percent Of Pupils,2,13 years,Male,Regular smoker
+S92000003,2008,Percent,Percent Of Pupils,9,All,Male,Regular smoker
+S92000003,2013,Percent,Percent Of Pupils,8,15 years,Male,Regular smoker
+S92000003,2015,Percent,Percent Of Pupils,88,13 years,Male,Never smoked
+S92000003,2010,Percent,Percent Of Pupils,80,13 years,Male,Never smoked
+S92000003,2006,Percent,Percent Of Pupils,65,All,Male,Never smoked
+S92000003,2015,Percent,Percent Of Pupils,7,15 years,Male,Regular smoker
+S92000003,2002,Percent,Percent Of Pupils,16,15 years,Male,Regular smoker
+S92000003,2004,Percent,Percent Of Pupils,9,All,Male,Regular smoker
+S92000003,2006,Percent,Percent Of Pupils,3,13 years,Male,Regular smoker
+S92000003,2004,Percent,Percent Of Pupils,14,15 years,Male,Regular smoker
+S92000003,2010,Percent,Percent Of Pupils,58,15 years,Male,Never smoked
+S92000003,2015,Percent,Percent Of Pupils,5,All,Male,Regular smoker
+S92000003,2006,Percent,Percent Of Pupils,2,13 years,Male,Occasional smoker
+S92000003,2004,Percent,Percent Of Pupils,5,13 years,Male,Regular smoker
+S92000003,2006,Percent,Percent Of Pupils,13,15 years,Male,Regular smoker
+S92000003,2008,Percent,Percent Of Pupils,5,15 years,Male,Occasional smoker
+S92000003,2004,Percent,Percent Of Pupils,65,13 years,Male,Never smoked
+S92000003,2013,Percent,Percent Of Pupils,77,All,Male,Never smoked
+S92000003,2010,Percent,Percent Of Pupils,11,15 years,Male,Regular smoker
+S92000003,2010,Percent,Percent Of Pupils,4,All,Male,Occasional smoker
+S92000003,2013,Percent,Percent Of Pupils,5,All,Male,Regular smoker
+S92000003,2010,Percent,Percent Of Pupils,69,All,Male,Never smoked
+S92000003,2013,Percent,Percent Of Pupils,4,All,Female,Used to smoke
+S92000003,2015,Percent,Percent Of Pupils,5,15 years,Female,Used to smoke
+S92000003,2013,Percent,Percent Of Pupils,2,13 years,Female,Regular smoker
+S92000003,2010,Percent,Percent Of Pupils,4,13 years,Female,Used to smoke
+S92000003,2008,Percent,Percent Of Pupils,75,13 years,Female,Never smoked
+S92000003,2013,Percent,Percent Of Pupils,2,13 years,Female,Used to smoke
+S92000003,2013,Percent,Percent Of Pupils,76,All,Female,Never smoked
+S92000003,2004,Percent,Percent Of Pupils,15,All,Female,Regular smoker
+S92000003,2015,Percent,Percent Of Pupils,3,All,Female,Used to smoke
+S92000003,2010,Percent,Percent Of Pupils,7,All,Female,Used to smoke
+S92000003,2010,Percent,Percent Of Pupils,79,13 years,Female,Never smoked
+S92000003,2004,Percent,Percent Of Pupils,24,15 years,Female,Regular smoker
+S92000003,2006,Percent,Percent Of Pupils,18,15 years,Female,Tried once
+S92000003,2015,Percent,Percent Of Pupils,1,13 years,Female,Used to smoke
+S92000003,2008,Percent,Percent Of Pupils,15,All,Female,Tried once
+S92000003,2013,Percent,Percent Of Pupils,5,All,Female,Regular smoker
+S92000003,2002,Percent,Percent Of Pupils,53,13 years,Female,Never smoked
+S92000003,2010,Percent,Percent Of Pupils,14,15 years,Female,Regular smoker
+S92000003,2002,Percent,Percent Of Pupils,44,All,Female,Never smoked
+S92000003,2013,Percent,Percent Of Pupils,6,15 years,Female,Used to smoke
+S92000003,2010,Percent,Percent Of Pupils,11,13 years,Female,Tried once
+S92000003,2013,Percent,Percent Of Pupils,9,15 years,Female,Regular smoker
+S92000003,2015,Percent,Percent Of Pupils,7,13 years,Female,Tried once
+S92000003,2010,Percent,Percent Of Pupils,52,15 years,Female,Never smoked
+S92000003,2008,Percent,Percent Of Pupils,19,15 years,Female,Tried once
+S92000003,2002,Percent,Percent Of Pupils,18,15 years,Female,Tried once
+S92000003,2004,Percent,Percent Of Pupils,19,All,Female,Tried once
+S92000003,2004,Percent,Percent Of Pupils,7,13 years,Female,Regular smoker
+S92000003,2013,Percent,Percent Of Pupils,17,15 years,Female,Tried once
+S92000003,2002,Percent,Percent Of Pupils,19,13 years,Female,Tried once
+S92000003,2015,Percent,Percent Of Pupils,2,13 years,Female,Regular smoker
+S92000003,2004,Percent,Percent Of Pupils,19,13 years,Female,Tried once
+S92000003,2015,Percent,Percent Of Pupils,10,All,Female,Tried once
+S92000003,2006,Percent,Percent Of Pupils,15,13 years,Female,Tried once
+S92000003,2015,Percent,Percent Of Pupils,14,15 years,Female,Tried once
+S92000003,2006,Percent,Percent Of Pupils,12,All,Female,Regular smoker
+S92000003,2008,Percent,Percent Of Pupils,8,All,Female,Used to smoke
+S92000003,2006,Percent,Percent Of Pupils,4,13 years,Female,Regular smoker
+S92000003,2006,Percent,Percent Of Pupils,18,15 years,Female,Regular smoker
+S92000003,2002,Percent,Percent Of Pupils,18,All,Female,Tried once
+S92000003,2010,Percent,Percent Of Pupils,9,15 years,Female,Used to smoke
+S92000003,2015,Percent,Percent Of Pupils,68,15 years,Female,Never smoked
+S92000003,2010,Percent,Percent Of Pupils,18,15 years,Female,Tried once
+S92000003,2013,Percent,Percent Of Pupils,6,13 years,Female,Tried once
+S92000003,2010,Percent,Percent Of Pupils,14,All,Female,Tried once
+S92000003,2004,Percent,Percent Of Pupils,37,15 years,Female,Never smoked
+S92000003,2008,Percent,Percent Of Pupils,11,13 years,Female,Tried once
+S92000003,2004,Percent,Percent Of Pupils,19,15 years,Female,Tried once
+S92000003,2013,Percent,Percent Of Pupils,12,All,Female,Tried once
+S92000003,2006,Percent,Percent Of Pupils,17,All,Female,Tried once
+S92000003,2013,Percent,Percent Of Pupils,6,15 years,Female,Occasional smoker
+S92000003,2008,Percent,Percent Of Pupils,7,15 years,Female,Occasional smoker
+S92000003,2004,Percent,Percent Of Pupils,58,13 years,Female,Never smoked
+S92000003,2008,Percent,Percent Of Pupils,47,15 years,Female,Never smoked
+S92000003,2010,Percent,Percent Of Pupils,66,All,Female,Never smoked
+S92000003,2015,Percent,Percent Of Pupils,89,13 years,Female,Never smoked
+S92000003,2002,Percent,Percent Of Pupils,16,All,Female,Regular smoker
+S92000003,2002,Percent,Percent Of Pupils,7,15 years,Female,Occasional smoker
+S92000003,2006,Percent,Percent Of Pupils,7,15 years,Female,Occasional smoker
+S92000003,2004,Percent,Percent Of Pupils,6,All,Female,Occasional smoker
+S92000003,2010,Percent,Percent Of Pupils,3,13 years,Female,Occasional smoker
+S92000003,2004,Percent,Percent Of Pupils,8,15 years,Female,Occasional smoker
+S92000003,2008,Percent,Percent Of Pupils,10,All,Female,Regular smoker
+S92000003,2006,Percent,Percent Of Pupils,69,13 years,Female,Never smoked
+S92000003,2013,Percent,Percent Of Pupils,1,13 years,Female,Occasional smoker
+S92000003,2002,Percent,Percent Of Pupils,9,13 years,Female,Regular smoker
+S92000003,2013,Percent,Percent Of Pupils,3,All,Female,Occasional smoker
+S92000003,2004,Percent,Percent Of Pupils,4,13 years,Female,Occasional smoker
+S92000003,2004,Percent,Percent Of Pupils,47,All,Female,Never smoked
+S92000003,2008,Percent,Percent Of Pupils,16,15 years,Female,Regular smoker
+S92000003,2015,Percent,Percent Of Pupils,2,13 years,Female,Occasional smoker
+S92000003,2010,Percent,Percent Of Pupils,5,All,Female,Occasional smoker
+S92000003,2002,Percent,Percent Of Pupils,6,All,Female,Occasional smoker
+S92000003,2002,Percent,Percent Of Pupils,5,13 years,Female,Occasional smoker
+S92000003,2008,Percent,Percent Of Pupils,6,All,Female,Occasional smoker
+S92000003,2015,Percent,Percent Of Pupils,6,15 years,Female,Occasional smoker
+S92000003,2013,Percent,Percent Of Pupils,63,15 years,Female,Never smoked
+S92000003,2015,Percent,Percent Of Pupils,4,All,Female,Occasional smoker
+S92000003,2010,Percent,Percent Of Pupils,7,15 years,Female,Occasional smoker
+S92000003,2010,Percent,Percent Of Pupils,3,13 years,Female,Regular smoker
+S92000003,2002,Percent,Percent Of Pupils,24,15 years,Female,Regular smoker
+S92000003,2015,Percent,Percent Of Pupils,7,15 years,Female,Regular smoker
+S92000003,2004,Percent,Percent Of Pupils,11,13 years,Female,Used to smoke
+S92000003,2006,Percent,Percent Of Pupils,10,All,Female,Used to smoke
+S92000003,2002,Percent,Percent Of Pupils,35,15 years,Female,Never smoked
+S92000003,2015,Percent,Percent Of Pupils,78,All,Female,Never smoked
+S92000003,2006,Percent,Percent Of Pupils,5,All,Female,Occasional smoker
+S92000003,2004,Percent,Percent Of Pupils,12,All,Female,Used to smoke
+S92000003,2010,Percent,Percent Of Pupils,9,All,Female,Regular smoker
+S92000003,2013,Percent,Percent Of Pupils,89,13 years,Female,Never smoked
+S92000003,2002,Percent,Percent Of Pupils,15,All,Female,Used to smoke
+S92000003,2004,Percent,Percent Of Pupils,13,15 years,Female,Used to smoke
+S92000003,2006,Percent,Percent Of Pupils,13,15 years,Female,Used to smoke
+S92000003,2008,Percent,Percent Of Pupils,5,13 years,Female,Used to smoke
+S92000003,2006,Percent,Percent Of Pupils,56,All,Female,Never smoked
+S92000003,2008,Percent,Percent Of Pupils,4,13 years,Female,Occasional smoker
+S92000003,2008,Percent,Percent Of Pupils,4,13 years,Female,Regular smoker
+S92000003,2006,Percent,Percent Of Pupils,44,15 years,Female,Never smoked
+S92000003,2015,Percent,Percent Of Pupils,4,All,Female,Regular smoker
+S92000003,2006,Percent,Percent Of Pupils,4,13 years,Female,Occasional smoker
+S92000003,2008,Percent,Percent Of Pupils,61,All,Female,Never smoked
+S92000003,2008,Percent,Percent Of Pupils,11,15 years,Female,Used to smoke
+S92000003,2002,Percent,Percent Of Pupils,14,13 years,Female,Used to smoke
+S92000003,2002,Percent,Percent Of Pupils,17,15 years,Female,Used to smoke
+S92000003,2006,Percent,Percent Of Pupils,8,13 years,Female,Used to smoke
+S92000003,2010,Percent,Percent Of Pupils,67,All,All,Never smoked
+S92000003,2004,Percent,Percent Of Pupils,62,13 years,All,Never smoked
+S92000003,2010,Percent,Percent Of Pupils,11,13 years,All,Tried once
+S92000003,2010,Percent,Percent Of Pupils,55,15 years,All,Never smoked
+S92000003,2004,Percent,Percent Of Pupils,53,All,All,Never smoked
+S92000003,2013,Percent,Percent Of Pupils,87,13 years,All,Never smoked
+S92000003,2008,Percent,Percent Of Pupils,16,All,All,Tried once
+S92000003,2015,Percent,Percent Of Pupils,79,All,All,Never smoked
+S92000003,2006,Percent,Percent Of Pupils,50,15 years,All,Never smoked
+S92000003,2008,Percent,Percent Of Pupils,63,All,All,Never smoked
+S92000003,2013,Percent,Percent Of Pupils,76,All,All,Never smoked
+S92000003,2008,Percent,Percent Of Pupils,51,15 years,All,Never smoked
+S92000003,2008,Percent,Percent Of Pupils,75,13 years,All,Never smoked
+S92000003,2002,Percent,Percent Of Pupils,49,All,All,Never smoked
+S92000003,2002,Percent,Percent Of Pupils,57,13 years,All,Never smoked
+S92000003,2015,Percent,Percent Of Pupils,88,13 years,All,Never smoked
+S92000003,2006,Percent,Percent Of Pupils,61,All,All,Never smoked
+S92000003,2004,Percent,Percent Of Pupils,43,15 years,All,Never smoked
+S92000003,2006,Percent,Percent Of Pupils,72,13 years,All,Never smoked
+S92000003,2006,Percent,Percent Of Pupils,15,13 years,All,Tried once
+S92000003,2013,Percent,Percent Of Pupils,66,15 years,All,Never smoked
+S92000003,2010,Percent,Percent Of Pupils,14,All,All,Tried once
+S92000003,2010,Percent,Percent Of Pupils,79,13 years,All,Never smoked
+S92000003,2002,Percent,Percent Of Pupils,41,15 years,All,Never smoked
+S92000003,2015,Percent,Percent Of Pupils,69,15 years,All,Never smoked
+S92000003,2008,Percent,Percent Of Pupils,18,15 years,All,Tried once
+S92000003,2006,Percent,Percent Of Pupils,6,15 years,All,Occasional smoker
+S92000003,2006,Percent,Percent Of Pupils,4,All,All,Occasional smoker
+S92000003,2008,Percent,Percent Of Pupils,5,All,All,Occasional smoker
+S92000003,2008,Percent,Percent Of Pupils,4,13 years,All,Occasional smoker
+S92000003,2010,Percent,Percent Of Pupils,6,15 years,All,Occasional smoker
+S92000003,2006,Percent,Percent Of Pupils,3,13 years,All,Occasional smoker
+S92000003,2008,Percent,Percent Of Pupils,6,15 years,All,Occasional smoker
+S92000003,2008,Percent,Percent Of Pupils,10,All,All,Regular smoker
+S92000003,2010,Percent,Percent Of Pupils,3,13 years,All,Occasional smoker
+S92000003,2010,Percent,Percent Of Pupils,5,All,All,Occasional smoker
+S92000003,2002,Percent,Percent Of Pupils,6,15 years,All,Occasional smoker
+S92000003,2015,Percent,Percent Of Pupils,5,15 years,All,Occasional smoker
+S92000003,2015,Percent,Percent Of Pupils,3,All,All,Occasional smoker
+S92000003,2013,Percent,Percent Of Pupils,1,13 years,All,Occasional smoker
+S92000003,2004,Percent,Percent Of Pupils,6,15 years,All,Occasional smoker
+S92000003,2015,Percent,Percent Of Pupils,1,13 years,All,Occasional smoker
+S92000003,2004,Percent,Percent Of Pupils,3,13 years,All,Occasional smoker
+S92000003,2002,Percent,Percent Of Pupils,5,All,All,Occasional smoker
+S92000003,2002,Percent,Percent Of Pupils,4,13 years,All,Occasional smoker
+S92000003,2013,Percent,Percent Of Pupils,3,All,All,Occasional smoker
+S92000003,2010,Percent,Percent Of Pupils,8,All,All,Regular smoker
+S92000003,2004,Percent,Percent Of Pupils,12,All,All,Regular smoker
+S92000003,2013,Percent,Percent Of Pupils,5,All,All,Regular smoker
+S92000003,2013,Percent,Percent Of Pupils,2,13 years,All,Regular smoker
+S92000003,2010,Percent,Percent Of Pupils,13,15 years,All,Regular smoker
+S92000003,2013,Percent,Percent Of Pupils,9,15 years,All,Regular smoker
+S92000003,2004,Percent,Percent Of Pupils,6,13 years,All,Regular smoker
+S92000003,2006,Percent,Percent Of Pupils,15,15 years,All,Regular smoker
+S92000003,2002,Percent,Percent Of Pupils,14,All,All,Regular smoker
+S92000003,2010,Percent,Percent Of Pupils,3,13 years,All,Regular smoker
+S92000003,2006,Percent,Percent Of Pupils,10,All,All,Regular smoker
+S92000003,2015,Percent,Percent Of Pupils,2,13 years,All,Regular smoker
+S92000003,2015,Percent,Percent Of Pupils,7,15 years,All,Regular smoker
+S92000003,2002,Percent,Percent Of Pupils,20,15 years,All,Regular smoker
+S92000003,2015,Percent,Percent Of Pupils,5,All,All,Regular smoker
+S92000003,2004,Percent,Percent Of Pupils,19,15 years,All,Regular smoker
+S92000003,2008,Percent,Percent Of Pupils,15,15 years,All,Regular smoker
+S92000003,2006,Percent,Percent Of Pupils,4,13 years,All,Regular smoker
+S92000003,2002,Percent,Percent Of Pupils,8,13 years,All,Regular smoker
+S92000003,2008,Percent,Percent Of Pupils,4,13 years,All,Regular smoker
+S92000003,2004,Percent,Percent Of Pupils,19,All,All,Tried once
+S92000003,2004,Percent,Percent Of Pupils,20,15 years,All,Tried once
+S92000003,2013,Percent,Percent Of Pupils,8,13 years,All,Tried once
+S92000003,2002,Percent,Percent Of Pupils,18,15 years,All,Tried once
+S92000003,2015,Percent,Percent Of Pupils,13,15 years,All,Tried once
+S92000003,2008,Percent,Percent Of Pupils,9,15 years,All,Used to smoke
+S92000003,2010,Percent,Percent Of Pupils,6,All,All,Used to smoke
+S92000003,2015,Percent,Percent Of Pupils,3,All,All,Used to smoke
+S92000003,2013,Percent,Percent Of Pupils,15,15 years,All,Tried once
+S92000003,2015,Percent,Percent Of Pupils,5,15 years,All,Used to smoke
+S92000003,2006,Percent,Percent Of Pupils,18,15 years,All,Tried once
+S92000003,2008,Percent,Percent Of Pupils,12,13 years,All,Tried once
+S92000003,2002,Percent,Percent Of Pupils,19,All,All,Tried once
+S92000003,2006,Percent,Percent Of Pupils,16,All,All,Tried once
+S92000003,2010,Percent,Percent Of Pupils,18,15 years,All,Tried once
+S92000003,2002,Percent,Percent Of Pupils,19,13 years,All,Tried once
+S92000003,2013,Percent,Percent Of Pupils,12,All,All,Tried once
+S92000003,2015,Percent,Percent Of Pupils,10,All,All,Tried once
+S92000003,2015,Percent,Percent Of Pupils,7,13 years,All,Tried once
+S92000003,2004,Percent,Percent Of Pupils,19,13 years,All,Tried once
+S92000003,2002,Percent,Percent Of Pupils,12,13 years,All,Used to smoke
+S92000003,2004,Percent,Percent Of Pupils,12,15 years,All,Used to smoke
+S92000003,2004,Percent,Percent Of Pupils,10,13 years,All,Used to smoke
+S92000003,2006,Percent,Percent Of Pupils,9,All,All,Used to smoke
+S92000003,2002,Percent,Percent Of Pupils,13,All,All,Used to smoke
+S92000003,2013,Percent,Percent Of Pupils,4,15 years,All,Occasional smoker
+S92000003,2006,Percent,Percent Of Pupils,11,15 years,All,Used to smoke
+S92000003,2004,Percent,Percent Of Pupils,5,All,All,Occasional smoker
+S92000003,2004,Percent,Percent Of Pupils,11,All,All,Used to smoke
+S92000003,2008,Percent,Percent Of Pupils,5,13 years,All,Used to smoke
+S92000003,2008,Percent,Percent Of Pupils,7,All,All,Used to smoke
+S92000003,2010,Percent,Percent Of Pupils,4,13 years,All,Used to smoke
+S92000003,2013,Percent,Percent Of Pupils,2,13 years,All,Used to smoke
+S92000003,2013,Percent,Percent Of Pupils,4,All,All,Used to smoke
+S92000003,2010,Percent,Percent Of Pupils,8,15 years,All,Used to smoke
+S92000003,2006,Percent,Percent Of Pupils,7,13 years,All,Used to smoke
+S92000003,2002,Percent,Percent Of Pupils,15,15 years,All,Used to smoke
+S92000003,2015,Percent,Percent Of Pupils,2,13 years,All,Used to smoke
+S92000003,2013,Percent,Percent Of Pupils,6,15 years,All,Used to smoke
