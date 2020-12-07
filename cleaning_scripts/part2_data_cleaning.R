@@ -1,5 +1,6 @@
 library(tidyverse)
-library(janitor)
+library(janitor) 
+library(here)
 
 overall_scotland_part2 <- read_csv("data/scotland_overall_survey.csv") %>% 
   clean_names()
@@ -44,3 +45,4 @@ local_scotland_part2_cleaned <- local_scotland_part2_cleaning %>%
          lower_confidence_limit_95_percent = x95_percent_lower_confidence_limit)
 
 rm(local_scotland_part2, local_scotland_part2_cleaning)
+
