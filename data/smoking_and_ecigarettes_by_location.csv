@@ -1,0 +1,487 @@
+"Year","Geographylevel","Location","Indicator","Categories","Sex","Percent","Mean","LowerCI","UpperCI"
+"16171819","Health Board","Ayrshire and Arran","E-cigarette use","Currently using","All",10,NA,8,11.4
+"16171819","Health Board","Ayrshire and Arran","E-cigarette use","Ever previously used","All",12,NA,10.1,13.8
+"16171819","Health Board","Ayrshire and Arran","E-cigarette use","Never used","All",78,NA,76.1,80.7
+"16171819","Health Board","Ayrshire and Arran","E-cigarette use","Currently using","Female",10,NA,7.5,11.8
+"16171819","Health Board","Ayrshire and Arran","E-cigarette use","Ever previously used","Female",13,NA,10.1,15
+"16171819","Health Board","Ayrshire and Arran","E-cigarette use","Never used","Female",78,NA,74.8,80.9
+"16171819","Health Board","Ayrshire and Arran","E-cigarette use","Currently using","Male",10,NA,7.1,12.3
+"16171819","Health Board","Ayrshire and Arran","E-cigarette use","Ever previously used","Male",11,NA,8.4,14
+"16171819","Health Board","Ayrshire and Arran","E-cigarette use","Never used","Male",79,NA,75.5,82.7
+"16171819","Health Board","Borders","E-cigarette use","Currently using","All",8,NA,5.1,10.2
+"16171819","Health Board","Borders","E-cigarette use","Ever previously used","All",11,NA,7.5,14.1
+"16171819","Health Board","Borders","E-cigarette use","Never used","All",82,NA,77.6,85.5
+"16171819","Health Board","Borders","E-cigarette use","Currently using","Female",9,NA,5.7,13.2
+"16171819","Health Board","Borders","E-cigarette use","Ever previously used","Female",10,NA,5.8,13.6
+"16171819","Health Board","Borders","E-cigarette use","Never used","Female",81,NA,75.7,85.9
+"16171819","Health Board","Borders","E-cigarette use","Currently using","Male",5,NA,2,8.6
+"16171819","Health Board","Borders","E-cigarette use","Ever previously used","Male",12,NA,6.5,17.7
+"16171819","Health Board","Borders","E-cigarette use","Never used","Male",83,NA,76.4,88.8
+"16171819","Health Board","Dumfries and Galloway","E-cigarette use","Currently using","All",7,NA,4,9.1
+"16171819","Health Board","Dumfries and Galloway","E-cigarette use","Ever previously used","All",13,NA,9.5,16.6
+"16171819","Health Board","Dumfries and Galloway","E-cigarette use","Never used","All",80,NA,76.2,84.6
+"16171819","Health Board","Dumfries and Galloway","E-cigarette use","Currently using","Female",8,NA,4,11.3
+"16171819","Health Board","Dumfries and Galloway","E-cigarette use","Ever previously used","Female",13,NA,7.8,17.4
+"16171819","Health Board","Dumfries and Galloway","E-cigarette use","Never used","Female",80,NA,74,85.4
+"16171819","Health Board","Dumfries and Galloway","E-cigarette use","Currently using","Male",6,NA,2,9
+"16171819","Health Board","Dumfries and Galloway","E-cigarette use","Ever previously used","Male",13,NA,8.2,18.7
+"16171819","Health Board","Dumfries and Galloway","E-cigarette use","Never used","Male",81,NA,75,87.1
+"16171819","Health Board","Fife","E-cigarette use","Currently using","All",8,NA,6.4,9.3
+"16171819","Health Board","Fife","E-cigarette use","Ever previously used","All",11,NA,9,12.3
+"16171819","Health Board","Fife","E-cigarette use","Never used","All",81,NA,79.4,83.5
+"16171819","Health Board","Fife","E-cigarette use","Currently using","Female",9,NA,6.7,10.5
+"16171819","Health Board","Fife","E-cigarette use","Ever previously used","Female",11,NA,8.7,13
+"16171819","Health Board","Fife","E-cigarette use","Never used","Female",81,NA,77.8,83.2
+"16171819","Health Board","Fife","E-cigarette use","Currently using","Male",7,NA,4.8,9.1
+"16171819","Health Board","Fife","E-cigarette use","Ever previously used","Male",10,NA,7.9,12.9
+"16171819","Health Board","Fife","E-cigarette use","Never used","Male",83,NA,79.5,85.8
+"16171819","Health Board","Forth Valley","E-cigarette use","Currently using","All",8,NA,5.7,9.4
+"16171819","Health Board","Forth Valley","E-cigarette use","Ever previously used","All",10,NA,7.9,12.4
+"16171819","Health Board","Forth Valley","E-cigarette use","Never used","All",82,NA,79.6,85
+"16171819","Health Board","Forth Valley","E-cigarette use","Currently using","Female",8,NA,5.3,10.1
+"16171819","Health Board","Forth Valley","E-cigarette use","Ever previously used","Female",9,NA,6.3,11.9
+"16171819","Health Board","Forth Valley","E-cigarette use","Never used","Female",83,NA,79.7,86.7
+"16171819","Health Board","Forth Valley","E-cigarette use","Currently using","Male",7,NA,4.6,10.2
+"16171819","Health Board","Forth Valley","E-cigarette use","Ever previously used","Male",11,NA,7.7,14.6
+"16171819","Health Board","Forth Valley","E-cigarette use","Never used","Male",81,NA,77.2,85.6
+"16171819","Health Board","Grampian","E-cigarette use","Currently using","All",5,NA,4.1,6.1
+"16171819","Health Board","Grampian","E-cigarette use","Ever previously used","All",11,NA,9.6,12.7
+"16171819","Health Board","Grampian","E-cigarette use","Never used","All",84,NA,82,85.5
+"16171819","Health Board","Grampian","E-cigarette use","Currently using","Female",4,NA,2.8,5.1
+"16171819","Health Board","Grampian","E-cigarette use","Ever previously used","Female",10,NA,7.8,11.8
+"16171819","Health Board","Grampian","E-cigarette use","Never used","Female",86,NA,84.1,88.5
+"16171819","Health Board","Grampian","E-cigarette use","Currently using","Male",6,NA,4.6,8.1
+"16171819","Health Board","Grampian","E-cigarette use","Ever previously used","Male",13,NA,10.3,15.1
+"16171819","Health Board","Grampian","E-cigarette use","Never used","Male",81,NA,78.2,83.7
+"16171819","Health Board","Greater Glasgow and Clyde","E-cigarette use","Currently using","All",7,NA,5.9,7.8
+"16171819","Health Board","Greater Glasgow and Clyde","E-cigarette use","Ever previously used","All",13,NA,11.5,14.3
+"16171819","Health Board","Greater Glasgow and Clyde","E-cigarette use","Never used","All",80,NA,78.7,81.8
+"16171819","Health Board","Greater Glasgow and Clyde","E-cigarette use","Currently using","Female",7,NA,5.5,7.9
+"16171819","Health Board","Greater Glasgow and Clyde","E-cigarette use","Ever previously used","Female",12,NA,10.3,13.8
+"16171819","Health Board","Greater Glasgow and Clyde","E-cigarette use","Never used","Female",81,NA,79.2,83.2
+"16171819","Health Board","Greater Glasgow and Clyde","E-cigarette use","Currently using","Male",7,NA,5.5,8.4
+"16171819","Health Board","Greater Glasgow and Clyde","E-cigarette use","Ever previously used","Male",14,NA,11.7,16
+"16171819","Health Board","Greater Glasgow and Clyde","E-cigarette use","Never used","Male",79,NA,76.7,81.7
+"16171819","Health Board","Highland","E-cigarette use","Currently using","All",9,NA,6.5,11.1
+"16171819","Health Board","Highland","E-cigarette use","Ever previously used","All",12,NA,9.6,15.1
+"16171819","Health Board","Highland","E-cigarette use","Never used","All",79,NA,75.5,82.2
+"16171819","Health Board","Highland","E-cigarette use","Currently using","Female",6,NA,3.7,8.4
+"16171819","Health Board","Highland","E-cigarette use","Ever previously used","Female",10,NA,6.8,12.7
+"16171819","Health Board","Highland","E-cigarette use","Never used","Female",84,NA,80.6,87.8
+"16171819","Health Board","Highland","E-cigarette use","Currently using","Male",12,NA,7.5,15.5
+"16171819","Health Board","Highland","E-cigarette use","Ever previously used","Male",15,NA,10.3,19.5
+"16171819","Health Board","Highland","E-cigarette use","Never used","Male",74,NA,68.1,79.1
+"16171819","Health Board","Lanarkshire","E-cigarette use","Currently using","All",7,NA,5.5,8.3
+"16171819","Health Board","Lanarkshire","E-cigarette use","Ever previously used","All",11,NA,9.3,13.1
+"16171819","Health Board","Lanarkshire","E-cigarette use","Never used","All",82,NA,79.7,84.1
+"16171819","Health Board","Lanarkshire","E-cigarette use","Currently using","Female",8,NA,5.9,9.7
+"16171819","Health Board","Lanarkshire","E-cigarette use","Ever previously used","Female",11,NA,8.7,13.6
+"16171819","Health Board","Lanarkshire","E-cigarette use","Never used","Female",81,NA,78.1,84
+"16171819","Health Board","Lanarkshire","E-cigarette use","Currently using","Male",6,NA,3.9,8
+"16171819","Health Board","Lanarkshire","E-cigarette use","Ever previously used","Male",11,NA,8.3,14.2
+"16171819","Health Board","Lanarkshire","E-cigarette use","Never used","Male",83,NA,79.4,86.2
+"16171819","Health Board","Lothian","E-cigarette use","Currently using","All",7,NA,5.9,8.2
+"16171819","Health Board","Lothian","E-cigarette use","Ever previously used","All",11,NA,9.8,12.8
+"16171819","Health Board","Lothian","E-cigarette use","Never used","All",82,NA,79.9,83.4
+"16171819","Health Board","Lothian","E-cigarette use","Currently using","Female",6,NA,4.8,7.6
+"16171819","Health Board","Lothian","E-cigarette use","Ever previously used","Female",9,NA,7.2,10.3
+"16171819","Health Board","Lothian","E-cigarette use","Never used","Female",85,NA,83,87
+"16171819","Health Board","Lothian","E-cigarette use","Currently using","Male",8,NA,6.1,9.7
+"16171819","Health Board","Lothian","E-cigarette use","Ever previously used","Male",14,NA,11.3,16.5
+"16171819","Health Board","Lothian","E-cigarette use","Never used","Male",78,NA,75.2,81.1
+"16171819","Health Board","Orkney","E-cigarette use","Currently using","All",1,NA,0.4,2.5
+"16171819","Health Board","Orkney","E-cigarette use","Ever previously used","All",10,NA,6,13
+"16171819","Health Board","Orkney","E-cigarette use","Never used","All",89,NA,85.4,92.7
+"16171819","Health Board","Orkney","E-cigarette use","Currently using","Female",1,NA,0,2.4
+"16171819","Health Board","Orkney","E-cigarette use","Ever previously used","Female",5,NA,2.4,8.5
+"16171819","Health Board","Orkney","E-cigarette use","Never used","Female",93,NA,90.2,96.7
+"16171819","Health Board","Orkney","E-cigarette use","Currently using","Male",2,NA,0.2,3.5
+"16171819","Health Board","Orkney","E-cigarette use","Ever previously used","Male",14,NA,7.7,20.7
+"16171819","Health Board","Orkney","E-cigarette use","Never used","Male",84,NA,77.3,90.6
+"16171819","Health Board","Shetland","E-cigarette use","Currently using","All",4,NA,2.2,5.7
+"16171819","Health Board","Shetland","E-cigarette use","Ever previously used","All",9,NA,6.1,11.8
+"16171819","Health Board","Shetland","E-cigarette use","Never used","All",87,NA,83.8,90.3
+"16171819","Health Board","Shetland","E-cigarette use","Currently using","Female",4,NA,1.4,6.2
+"16171819","Health Board","Shetland","E-cigarette use","Ever previously used","Female",8,NA,4.6,11.8
+"16171819","Health Board","Shetland","E-cigarette use","Never used","Female",88,NA,83.8,92.2
+"16171819","Health Board","Shetland","E-cigarette use","Currently using","Male",4,NA,1.4,6.8
+"16171819","Health Board","Shetland","E-cigarette use","Ever previously used","Male",10,NA,5.4,14.1
+"16171819","Health Board","Shetland","E-cigarette use","Never used","Male",86,NA,81.2,91.2
+"16171819","Health Board","Tayside","E-cigarette use","Currently using","All",6,NA,4.7,7.9
+"16171819","Health Board","Tayside","E-cigarette use","Ever previously used","All",12,NA,9.5,13.9
+"16171819","Health Board","Tayside","E-cigarette use","Never used","All",82,NA,79.4,84.5
+"16171819","Health Board","Tayside","E-cigarette use","Currently using","Female",5,NA,3.2,6.8
+"16171819","Health Board","Tayside","E-cigarette use","Ever previously used","Female",9,NA,6.6,11.5
+"16171819","Health Board","Tayside","E-cigarette use","Never used","Female",86,NA,83.1,88.9
+"16171819","Health Board","Tayside","E-cigarette use","Currently using","Male",8,NA,5.1,10.4
+"16171819","Health Board","Tayside","E-cigarette use","Ever previously used","Male",15,NA,11,18.4
+"16171819","Health Board","Tayside","E-cigarette use","Never used","Male",78,NA,73.3,81.8
+"16171819","Health Board","Western Isles","E-cigarette use","Currently using","All",5,NA,2.4,7
+"16171819","Health Board","Western Isles","E-cigarette use","Ever previously used","All",9,NA,5.2,12.2
+"16171819","Health Board","Western Isles","E-cigarette use","Never used","All",87,NA,82.6,90.6
+"16171819","Health Board","Western Isles","E-cigarette use","Currently using","Female",3,NA,0.7,5.8
+"16171819","Health Board","Western Isles","E-cigarette use","Ever previously used","Female",9,NA,4.5,12.8
+"16171819","Health Board","Western Isles","E-cigarette use","Never used","Female",88,NA,83.3,92.8
+"16171819","Health Board","Western Isles","E-cigarette use","Currently using","Male",6,NA,2.4,10
+"16171819","Health Board","Western Isles","E-cigarette use","Ever previously used","Male",9,NA,3,14.4
+"16171819","Health Board","Western Isles","E-cigarette use","Never used","Male",85,NA,78.6,91.6
+"16171819","Health Board","Ayrshire and Arran","Smoking status","Current smoker","All",20,NA,17.7,22.2
+"16171819","Health Board","Ayrshire and Arran","Smoking status","Never smoked/Used to smoke occasionally","All",53,NA,49.8,55.4
+"16171819","Health Board","Ayrshire and Arran","Smoking status","Used to smoke regularly","All",27,NA,25,29.9
+"16171819","Health Board","Ayrshire and Arran","Smoking status","Current smoker","Female",20,NA,17.1,23
+"16171819","Health Board","Ayrshire and Arran","Smoking status","Never smoked/Used to smoke occasionally","Female",53,NA,49.6,57
+"16171819","Health Board","Ayrshire and Arran","Smoking status","Used to smoke regularly","Female",27,NA,23.4,29.9
+"16171819","Health Board","Ayrshire and Arran","Smoking status","Current smoker","Male",20,NA,16.4,23.3
+"16171819","Health Board","Ayrshire and Arran","Smoking status","Never smoked/Used to smoke occasionally","Male",52,NA,47.5,56
+"16171819","Health Board","Ayrshire and Arran","Smoking status","Used to smoke regularly","Male",28,NA,24.7,32.1
+"16171819","Health Board","Borders","Smoking status","Current smoker","All",18,NA,14.3,21.8
+"16171819","Health Board","Borders","Smoking status","Never smoked/Used to smoke occasionally","All",56,NA,51.3,60.9
+"16171819","Health Board","Borders","Smoking status","Used to smoke regularly","All",26,NA,21.8,30
+"16171819","Health Board","Borders","Smoking status","Current smoker","Female",18,NA,12.7,22.4
+"16171819","Health Board","Borders","Smoking status","Never smoked/Used to smoke occasionally","Female",58,NA,52.1,64.6
+"16171819","Health Board","Borders","Smoking status","Used to smoke regularly","Female",24,NA,18.9,29.3
+"16171819","Health Board","Borders","Smoking status","Current smoker","Male",19,NA,12.7,24.5
+"16171819","Health Board","Borders","Smoking status","Never smoked/Used to smoke occasionally","Male",53,NA,45.8,60.9
+"16171819","Health Board","Borders","Smoking status","Used to smoke regularly","Male",28,NA,21.5,34.6
+"16171819","Health Board","Dumfries and Galloway","Smoking status","Current smoker","All",19,NA,14.6,23.6
+"16171819","Health Board","Dumfries and Galloway","Smoking status","Never smoked/Used to smoke occasionally","All",55,NA,49.9,60.4
+"16171819","Health Board","Dumfries and Galloway","Smoking status","Used to smoke regularly","All",26,NA,21.3,30.1
+"16171819","Health Board","Dumfries and Galloway","Smoking status","Current smoker","Female",15,NA,10.1,20.3
+"16171819","Health Board","Dumfries and Galloway","Smoking status","Never smoked/Used to smoke occasionally","Female",60,NA,53.4,67
+"16171819","Health Board","Dumfries and Galloway","Smoking status","Used to smoke regularly","Female",25,NA,18.7,30.4
+"16171819","Health Board","Dumfries and Galloway","Smoking status","Current smoker","Male",23,NA,15.6,30
+"16171819","Health Board","Dumfries and Galloway","Smoking status","Never smoked/Used to smoke occasionally","Male",50,NA,42.5,58.1
+"16171819","Health Board","Dumfries and Galloway","Smoking status","Used to smoke regularly","Male",27,NA,20.4,33.4
+"16171819","Health Board","Fife","Smoking status","Current smoker","All",18,NA,16.1,20.2
+"16171819","Health Board","Fife","Smoking status","Never smoked/Used to smoke occasionally","All",55,NA,52.1,57.4
+"16171819","Health Board","Fife","Smoking status","Used to smoke regularly","All",27,NA,24.9,29.4
+"16171819","Health Board","Fife","Smoking status","Current smoker","Female",18,NA,15.5,20.8
+"16171819","Health Board","Fife","Smoking status","Never smoked/Used to smoke occasionally","Female",56,NA,52.8,59.6
+"16171819","Health Board","Fife","Smoking status","Used to smoke regularly","Female",26,NA,22.7,28.5
+"16171819","Health Board","Fife","Smoking status","Current smoker","Male",18,NA,14.8,21.3
+"16171819","Health Board","Fife","Smoking status","Never smoked/Used to smoke occasionally","Male",53,NA,49,57.2
+"16171819","Health Board","Fife","Smoking status","Used to smoke regularly","Male",29,NA,25.3,32.4
+"16171819","Health Board","Forth Valley","Smoking status","Current smoker","All",18,NA,15.6,21.1
+"16171819","Health Board","Forth Valley","Smoking status","Never smoked/Used to smoke occasionally","All",56,NA,52.9,59.7
+"16171819","Health Board","Forth Valley","Smoking status","Used to smoke regularly","All",25,NA,22.5,28.2
+"16171819","Health Board","Forth Valley","Smoking status","Current smoker","Female",15,NA,12,18.7
+"16171819","Health Board","Forth Valley","Smoking status","Never smoked/Used to smoke occasionally","Female",58,NA,53.5,62.4
+"16171819","Health Board","Forth Valley","Smoking status","Used to smoke regularly","Female",27,NA,22.9,30.6
+"16171819","Health Board","Forth Valley","Smoking status","Current smoker","Male",21,NA,17,25.5
+"16171819","Health Board","Forth Valley","Smoking status","Never smoked/Used to smoke occasionally","Male",55,NA,49.6,59.8
+"16171819","Health Board","Forth Valley","Smoking status","Used to smoke regularly","Male",24,NA,19.8,28.3
+"16171819","Health Board","Grampian","Smoking status","Current smoker","All",17,NA,14.8,18.2
+"16171819","Health Board","Grampian","Smoking status","Never smoked/Used to smoke occasionally","All",61,NA,59,63.5
+"16171819","Health Board","Grampian","Smoking status","Used to smoke regularly","All",22,NA,20.4,24.1
+"16171819","Health Board","Grampian","Smoking status","Current smoker","Female",16,NA,13.9,18.4
+"16171819","Health Board","Grampian","Smoking status","Never smoked/Used to smoke occasionally","Female",63,NA,60.4,66.3
+"16171819","Health Board","Grampian","Smoking status","Used to smoke regularly","Female",20,NA,18.1,22.9
+"16171819","Health Board","Grampian","Smoking status","Current smoker","Male",17,NA,14.3,19.5
+"16171819","Health Board","Grampian","Smoking status","Never smoked/Used to smoke occasionally","Male",59,NA,55.5,62.3
+"16171819","Health Board","Grampian","Smoking status","Used to smoke regularly","Male",24,NA,21.3,27
+"16171819","Health Board","Greater Glasgow and Clyde","Smoking status","Current smoker","All",20,NA,18.6,21.8
+"16171819","Health Board","Greater Glasgow and Clyde","Smoking status","Never smoked/Used to smoke occasionally","All",58,NA,55.7,59.5
+"16171819","Health Board","Greater Glasgow and Clyde","Smoking status","Used to smoke regularly","All",22,NA,20.7,23.7
+"16171819","Health Board","Greater Glasgow and Clyde","Smoking status","Current smoker","Female",19,NA,16.7,20.7
+"16171819","Health Board","Greater Glasgow and Clyde","Smoking status","Never smoked/Used to smoke occasionally","Female",60,NA,57.5,62.3
+"16171819","Health Board","Greater Glasgow and Clyde","Smoking status","Used to smoke regularly","Female",21,NA,19.5,23.3
+"16171819","Health Board","Greater Glasgow and Clyde","Smoking status","Current smoker","Male",22,NA,19.3,24.4
+"16171819","Health Board","Greater Glasgow and Clyde","Smoking status","Never smoked/Used to smoke occasionally","Male",55,NA,52.1,58
+"16171819","Health Board","Greater Glasgow and Clyde","Smoking status","Used to smoke regularly","Male",23,NA,20.8,25.4
+"16171819","Health Board","Highland","Smoking status","Current smoker","All",20,NA,17.1,23.5
+"16171819","Health Board","Highland","Smoking status","Never smoked/Used to smoke occasionally","All",53,NA,49.4,57
+"16171819","Health Board","Highland","Smoking status","Used to smoke regularly","All",26,NA,23.2,29.7
+"16171819","Health Board","Highland","Smoking status","Current smoker","Female",15,NA,11.3,18.2
+"16171819","Health Board","Highland","Smoking status","Never smoked/Used to smoke occasionally","Female",59,NA,54.5,64.2
+"16171819","Health Board","Highland","Smoking status","Used to smoke regularly","Female",26,NA,21.6,30.2
+"16171819","Health Board","Highland","Smoking status","Current smoker","Male",26,NA,20.5,31.2
+"16171819","Health Board","Highland","Smoking status","Never smoked/Used to smoke occasionally","Male",47,NA,41.3,52.9
+"16171819","Health Board","Highland","Smoking status","Used to smoke regularly","Male",27,NA,22.2,31.9
+"16171819","Health Board","Lanarkshire","Smoking status","Current smoker","All",21,NA,18.9,24
+"16171819","Health Board","Lanarkshire","Smoking status","Never smoked/Used to smoke occasionally","All",54,NA,51.2,57.1
+"16171819","Health Board","Lanarkshire","Smoking status","Used to smoke regularly","All",24,NA,22.1,26.8
+"16171819","Health Board","Lanarkshire","Smoking status","Current smoker","Female",20,NA,16.7,22.5
+"16171819","Health Board","Lanarkshire","Smoking status","Never smoked/Used to smoke occasionally","Female",57,NA,53.6,60.7
+"16171819","Health Board","Lanarkshire","Smoking status","Used to smoke regularly","Female",23,NA,20.3,26.2
+"16171819","Health Board","Lanarkshire","Smoking status","Current smoker","Male",23,NA,19.2,27.6
+"16171819","Health Board","Lanarkshire","Smoking status","Never smoked/Used to smoke occasionally","Male",51,NA,46.2,55.6
+"16171819","Health Board","Lanarkshire","Smoking status","Used to smoke regularly","Male",26,NA,22,29.4
+"16171819","Health Board","Lothian","Smoking status","Current smoker","All",17,NA,15.8,19.2
+"16171819","Health Board","Lothian","Smoking status","Never smoked/Used to smoke occasionally","All",61,NA,59.2,63.4
+"16171819","Health Board","Lothian","Smoking status","Used to smoke regularly","All",21,NA,19.5,23
+"16171819","Health Board","Lothian","Smoking status","Current smoker","Female",16,NA,13.5,17.6
+"16171819","Health Board","Lothian","Smoking status","Never smoked/Used to smoke occasionally","Female",63,NA,60.3,65.8
+"16171819","Health Board","Lothian","Smoking status","Used to smoke regularly","Female",21,NA,19.1,23.7
+"16171819","Health Board","Lothian","Smoking status","Current smoker","Male",19,NA,16.8,22.2
+"16171819","Health Board","Lothian","Smoking status","Never smoked/Used to smoke occasionally","Male",59,NA,56.2,62.8
+"16171819","Health Board","Lothian","Smoking status","Used to smoke regularly","Male",21,NA,18.4,23.7
+"16171819","Health Board","Orkney","Smoking status","Current smoker","All",12,NA,8.7,15.6
+"16171819","Health Board","Orkney","Smoking status","Never smoked/Used to smoke occasionally","All",65,NA,60.3,69.9
+"16171819","Health Board","Orkney","Smoking status","Used to smoke regularly","All",23,NA,18.7,26.8
+"16171819","Health Board","Orkney","Smoking status","Current smoker","Female",9,NA,5.2,13.2
+"16171819","Health Board","Orkney","Smoking status","Never smoked/Used to smoke occasionally","Female",70,NA,63.8,76
+"16171819","Health Board","Orkney","Smoking status","Used to smoke regularly","Female",21,NA,15.5,26.3
+"16171819","Health Board","Orkney","Smoking status","Current smoker","Male",15,NA,9.7,21.3
+"16171819","Health Board","Orkney","Smoking status","Never smoked/Used to smoke occasionally","Male",60,NA,52,67
+"16171819","Health Board","Orkney","Smoking status","Used to smoke regularly","Male",25,NA,18.9,31.2
+"16171819","Health Board","Shetland","Smoking status","Current smoker","All",17,NA,13.6,21
+"16171819","Health Board","Shetland","Smoking status","Never smoked/Used to smoke occasionally","All",62,NA,56.7,66.3
+"16171819","Health Board","Shetland","Smoking status","Used to smoke regularly","All",21,NA,17.3,25
+"16171819","Health Board","Shetland","Smoking status","Current smoker","Female",14,NA,9.5,18.3
+"16171819","Health Board","Shetland","Smoking status","Never smoked/Used to smoke occasionally","Female",65,NA,59,71.5
+"16171819","Health Board","Shetland","Smoking status","Used to smoke regularly","Female",21,NA,15.6,26
+"16171819","Health Board","Shetland","Smoking status","Current smoker","Male",21,NA,15,27
+"16171819","Health Board","Shetland","Smoking status","Never smoked/Used to smoke occasionally","Male",57,NA,50.1,64.8
+"16171819","Health Board","Shetland","Smoking status","Used to smoke regularly","Male",22,NA,15.8,27.3
+"16171819","Health Board","Tayside","Smoking status","Current smoker","All",16,NA,13.2,17.9
+"16171819","Health Board","Tayside","Smoking status","Never smoked/Used to smoke occasionally","All",62,NA,58.9,65.1
+"16171819","Health Board","Tayside","Smoking status","Used to smoke regularly","All",22,NA,19.9,25
+"16171819","Health Board","Tayside","Smoking status","Current smoker","Female",14,NA,11.6,17.4
+"16171819","Health Board","Tayside","Smoking status","Never smoked/Used to smoke occasionally","Female",66,NA,61.6,69.5
+"16171819","Health Board","Tayside","Smoking status","Used to smoke regularly","Female",20,NA,16.7,23.3
+"16171819","Health Board","Tayside","Smoking status","Current smoker","Male",17,NA,13.1,20.4
+"16171819","Health Board","Tayside","Smoking status","Never smoked/Used to smoke occasionally","Male",58,NA,53.3,62.8
+"16171819","Health Board","Tayside","Smoking status","Used to smoke regularly","Male",25,NA,21.1,29.3
+"16171819","Health Board","Western Isles","Smoking status","Current smoker","All",16,NA,12.3,20
+"16171819","Health Board","Western Isles","Smoking status","Never smoked/Used to smoke occasionally","All",55,NA,50.2,60.7
+"16171819","Health Board","Western Isles","Smoking status","Used to smoke regularly","All",28,NA,23.8,33
+"16171819","Health Board","Western Isles","Smoking status","Current smoker","Female",13,NA,8.7,18.2
+"16171819","Health Board","Western Isles","Smoking status","Never smoked/Used to smoke occasionally","Female",59,NA,52.3,65.9
+"16171819","Health Board","Western Isles","Smoking status","Used to smoke regularly","Female",27,NA,21.4,33.6
+"16171819","Health Board","Western Isles","Smoking status","Current smoker","Male",19,NA,12.8,25.1
+"16171819","Health Board","Western Isles","Smoking status","Never smoked/Used to smoke occasionally","Male",52,NA,43.6,59.7
+"16171819","Health Board","Western Isles","Smoking status","Used to smoke regularly","Male",29,NA,22.4,36.4
+"16171819","Local Authority","Aberdeen City","E-cigarette use","Currently using","All",5,NA,3.4,6.6
+"16171819","Local Authority","Aberdeen City","E-cigarette use","Ever previously used","All",12,NA,9.2,14.1
+"16171819","Local Authority","Aberdeen City","E-cigarette use","Never used","All",83,NA,80.5,86.2
+"16171819","Local Authority","Aberdeen City","E-cigarette use","Currently using","Female",4,NA,2,5.6
+"16171819","Local Authority","Aberdeen City","E-cigarette use","Ever previously used","Female",10,NA,6.5,12.8
+"16171819","Local Authority","Aberdeen City","E-cigarette use","Never used","Female",87,NA,83.1,90.1
+"16171819","Local Authority","Aberdeen City","E-cigarette use","Currently using","Male",6,NA,3.6,9.1
+"16171819","Local Authority","Aberdeen City","E-cigarette use","Ever previously used","Male",14,NA,10,17.8
+"16171819","Local Authority","Aberdeen City","E-cigarette use","Never used","Male",80,NA,75.2,84.3
+"16171819","Local Authority","Aberdeenshire","E-cigarette use","Currently using","All",5,NA,3.1,6.2
+"16171819","Local Authority","Aberdeenshire","E-cigarette use","Ever previously used","All",10,NA,8.1,12.8
+"16171819","Local Authority","Aberdeenshire","E-cigarette use","Never used","All",85,NA,82.1,87.5
+"16171819","Local Authority","Aberdeenshire","E-cigarette use","Currently using","Female",3,NA,1.5,4.8
+"16171819","Local Authority","Aberdeenshire","E-cigarette use","Ever previously used","Female",9,NA,6.3,12.2
+"16171819","Local Authority","Aberdeenshire","E-cigarette use","Never used","Female",88,NA,84.3,90.9
+"16171819","Local Authority","Aberdeenshire","E-cigarette use","Currently using","Male",6,NA,3.7,9
+"16171819","Local Authority","Aberdeenshire","E-cigarette use","Ever previously used","Male",12,NA,8.1,15.4
+"16171819","Local Authority","Aberdeenshire","E-cigarette use","Never used","Male",82,NA,77.6,86.2
+"16171819","Local Authority","Dumfries and Galloway","E-cigarette use","Currently using","All",7,NA,4,9.1
+"16171819","Local Authority","Dumfries and Galloway","E-cigarette use","Ever previously used","All",13,NA,9.5,16.6
+"16171819","Local Authority","Dumfries and Galloway","E-cigarette use","Never used","All",80,NA,76.2,84.6
+"16171819","Local Authority","Dumfries and Galloway","E-cigarette use","Currently using","Female",8,NA,4,11.3
+"16171819","Local Authority","Dumfries and Galloway","E-cigarette use","Ever previously used","Female",13,NA,7.8,17.4
+"16171819","Local Authority","Dumfries and Galloway","E-cigarette use","Never used","Female",80,NA,74,85.4
+"16171819","Local Authority","Dumfries and Galloway","E-cigarette use","Currently using","Male",6,NA,2,9
+"16171819","Local Authority","Dumfries and Galloway","E-cigarette use","Ever previously used","Male",13,NA,8.2,18.7
+"16171819","Local Authority","Dumfries and Galloway","E-cigarette use","Never used","Male",81,NA,75,87.1
+"16171819","Local Authority","Edinburgh City","E-cigarette use","Currently using","All",6,NA,4.8,7.6
+"16171819","Local Authority","Edinburgh City","E-cigarette use","Ever previously used","All",10,NA,8.4,12.2
+"16171819","Local Authority","Edinburgh City","E-cigarette use","Never used","All",84,NA,81.3,85.8
+"16171819","Local Authority","Edinburgh City","E-cigarette use","Currently using","Female",5,NA,3.3,6.5
+"16171819","Local Authority","Edinburgh City","E-cigarette use","Ever previously used","Female",7,NA,5.5,9.5
+"16171819","Local Authority","Edinburgh City","E-cigarette use","Never used","Female",88,NA,85.2,90
+"16171819","Local Authority","Edinburgh City","E-cigarette use","Currently using","Male",7,NA,5.1,9.8
+"16171819","Local Authority","Edinburgh City","E-cigarette use","Ever previously used","Male",13,NA,9.9,16.3
+"16171819","Local Authority","Edinburgh City","E-cigarette use","Never used","Male",79,NA,75.7,83.2
+"16171819","Local Authority","Fife","E-cigarette use","Currently using","All",8,NA,6.4,9.3
+"16171819","Local Authority","Fife","E-cigarette use","Ever previously used","All",11,NA,9,12.3
+"16171819","Local Authority","Fife","E-cigarette use","Never used","All",81,NA,79.4,83.5
+"16171819","Local Authority","Fife","E-cigarette use","Currently using","Female",9,NA,6.7,10.5
+"16171819","Local Authority","Fife","E-cigarette use","Ever previously used","Female",11,NA,8.7,13
+"16171819","Local Authority","Fife","E-cigarette use","Never used","Female",81,NA,77.8,83.2
+"16171819","Local Authority","Fife","E-cigarette use","Currently using","Male",7,NA,4.8,9.1
+"16171819","Local Authority","Fife","E-cigarette use","Ever previously used","Male",10,NA,7.9,12.9
+"16171819","Local Authority","Fife","E-cigarette use","Never used","Male",83,NA,79.5,85.8
+"16171819","Local Authority","Glasgow City","E-cigarette use","Currently using","All",8,NA,6.1,9
+"16171819","Local Authority","Glasgow City","E-cigarette use","Ever previously used","All",15,NA,13,17.3
+"16171819","Local Authority","Glasgow City","E-cigarette use","Never used","All",77,NA,74.8,79.7
+"16171819","Local Authority","Glasgow City","E-cigarette use","Currently using","Female",8,NA,5.8,9.4
+"16171819","Local Authority","Glasgow City","E-cigarette use","Ever previously used","Female",14,NA,11.5,17
+"16171819","Local Authority","Glasgow City","E-cigarette use","Never used","Female",78,NA,75,81.2
+"16171819","Local Authority","Glasgow City","E-cigarette use","Currently using","Male",8,NA,5.3,9.8
+"16171819","Local Authority","Glasgow City","E-cigarette use","Ever previously used","Male",16,NA,12.7,19.6
+"16171819","Local Authority","Glasgow City","E-cigarette use","Never used","Male",76,NA,72.5,80.2
+"16171819","Local Authority","Na h-Eileanan Siar","E-cigarette use","Currently using","All",5,NA,2.4,7
+"16171819","Local Authority","Na h-Eileanan Siar","E-cigarette use","Ever previously used","All",9,NA,5.2,12.2
+"16171819","Local Authority","Na h-Eileanan Siar","E-cigarette use","Never used","All",87,NA,82.6,90.6
+"16171819","Local Authority","Na h-Eileanan Siar","E-cigarette use","Currently using","Female",3,NA,0.7,5.8
+"16171819","Local Authority","Na h-Eileanan Siar","E-cigarette use","Ever previously used","Female",9,NA,4.5,12.8
+"16171819","Local Authority","Na h-Eileanan Siar","E-cigarette use","Never used","Female",88,NA,83.3,92.8
+"16171819","Local Authority","Na h-Eileanan Siar","E-cigarette use","Currently using","Male",6,NA,2.4,10
+"16171819","Local Authority","Na h-Eileanan Siar","E-cigarette use","Ever previously used","Male",9,NA,3,14.4
+"16171819","Local Authority","Na h-Eileanan Siar","E-cigarette use","Never used","Male",85,NA,78.6,91.6
+"16171819","Local Authority","North Lanarkshire","E-cigarette use","Currently using","All",7,NA,5.6,9.3
+"16171819","Local Authority","North Lanarkshire","E-cigarette use","Ever previously used","All",12,NA,9.4,14.6
+"16171819","Local Authority","North Lanarkshire","E-cigarette use","Never used","All",81,NA,77.5,83.6
+"16171819","Local Authority","North Lanarkshire","E-cigarette use","Currently using","Female",8,NA,5.9,11.1
+"16171819","Local Authority","North Lanarkshire","E-cigarette use","Ever previously used","Female",13,NA,9.5,16.7
+"16171819","Local Authority","North Lanarkshire","E-cigarette use","Never used","Female",78,NA,74.3,82.6
+"16171819","Local Authority","North Lanarkshire","E-cigarette use","Currently using","Male",6,NA,3.8,9
+"16171819","Local Authority","North Lanarkshire","E-cigarette use","Ever previously used","Male",11,NA,7.2,14.7
+"16171819","Local Authority","North Lanarkshire","E-cigarette use","Never used","Male",83,NA,78.3,87.1
+"16171819","Local Authority","Orkney Islands","E-cigarette use","Currently using","All",1,NA,0.4,2.5
+"16171819","Local Authority","Orkney Islands","E-cigarette use","Ever previously used","All",10,NA,6,13
+"16171819","Local Authority","Orkney Islands","E-cigarette use","Never used","All",89,NA,85.4,92.7
+"16171819","Local Authority","Orkney Islands","E-cigarette use","Currently using","Female",1,NA,0,2.4
+"16171819","Local Authority","Orkney Islands","E-cigarette use","Ever previously used","Female",5,NA,2.4,8.5
+"16171819","Local Authority","Orkney Islands","E-cigarette use","Never used","Female",93,NA,90.2,96.7
+"16171819","Local Authority","Orkney Islands","E-cigarette use","Currently using","Male",2,NA,0.2,3.5
+"16171819","Local Authority","Orkney Islands","E-cigarette use","Ever previously used","Male",14,NA,7.7,20.7
+"16171819","Local Authority","Orkney Islands","E-cigarette use","Never used","Male",84,NA,77.3,90.6
+"16171819","Local Authority","Scottish Borders","E-cigarette use","Currently using","All",8,NA,5.1,10.2
+"16171819","Local Authority","Scottish Borders","E-cigarette use","Ever previously used","All",11,NA,7.5,14.1
+"16171819","Local Authority","Scottish Borders","E-cigarette use","Never used","All",82,NA,77.6,85.5
+"16171819","Local Authority","Scottish Borders","E-cigarette use","Currently using","Female",9,NA,5.7,13.2
+"16171819","Local Authority","Scottish Borders","E-cigarette use","Ever previously used","Female",10,NA,5.8,13.6
+"16171819","Local Authority","Scottish Borders","E-cigarette use","Never used","Female",81,NA,75.7,85.9
+"16171819","Local Authority","Scottish Borders","E-cigarette use","Currently using","Male",5,NA,2,8.6
+"16171819","Local Authority","Scottish Borders","E-cigarette use","Ever previously used","Male",12,NA,6.5,17.7
+"16171819","Local Authority","Scottish Borders","E-cigarette use","Never used","Male",83,NA,76.4,88.8
+"16171819","Local Authority","Shetland Islands","E-cigarette use","Currently using","All",4,NA,2.2,5.7
+"16171819","Local Authority","Shetland Islands","E-cigarette use","Ever previously used","All",9,NA,6.1,11.8
+"16171819","Local Authority","Shetland Islands","E-cigarette use","Never used","All",87,NA,83.8,90.3
+"16171819","Local Authority","Shetland Islands","E-cigarette use","Currently using","Female",4,NA,1.4,6.2
+"16171819","Local Authority","Shetland Islands","E-cigarette use","Ever previously used","Female",8,NA,4.6,11.8
+"16171819","Local Authority","Shetland Islands","E-cigarette use","Never used","Female",88,NA,83.8,92.2
+"16171819","Local Authority","Shetland Islands","E-cigarette use","Currently using","Male",4,NA,1.4,6.8
+"16171819","Local Authority","Shetland Islands","E-cigarette use","Ever previously used","Male",10,NA,5.4,14.1
+"16171819","Local Authority","Shetland Islands","E-cigarette use","Never used","Male",86,NA,81.2,91.2
+"16171819","Local Authority","South Lanarkshire","E-cigarette use","Currently using","All",5,NA,3.7,7.1
+"16171819","Local Authority","South Lanarkshire","E-cigarette use","Ever previously used","All",10,NA,7.9,12.8
+"16171819","Local Authority","South Lanarkshire","E-cigarette use","Never used","All",84,NA,81.3,87.1
+"16171819","Local Authority","South Lanarkshire","E-cigarette use","Currently using","Female",6,NA,4.1,8.7
+"16171819","Local Authority","South Lanarkshire","E-cigarette use","Ever previously used","Female",8,NA,5.7,11.2
+"16171819","Local Authority","South Lanarkshire","E-cigarette use","Never used","Female",85,NA,81.7,88.6
+"16171819","Local Authority","South Lanarkshire","E-cigarette use","Currently using","Male",4,NA,1.7,6.9
+"16171819","Local Authority","South Lanarkshire","E-cigarette use","Ever previously used","Male",13,NA,8.3,16.8
+"16171819","Local Authority","South Lanarkshire","E-cigarette use","Never used","Male",83,NA,78.4,87.9
+"16171819","Local Authority","Aberdeen City","Smoking status","Current smoker","All",18,NA,15.3,21
+"16171819","Local Authority","Aberdeen City","Smoking status","Never smoked/Used to smoke occasionally","All",63,NA,59.6,66.8
+"16171819","Local Authority","Aberdeen City","Smoking status","Used to smoke regularly","All",19,NA,15.9,21.3
+"16171819","Local Authority","Aberdeen City","Smoking status","Current smoker","Female",17,NA,13,20.2
+"16171819","Local Authority","Aberdeen City","Smoking status","Never smoked/Used to smoke occasionally","Female",65,NA,60.8,70.1
+"16171819","Local Authority","Aberdeen City","Smoking status","Used to smoke regularly","Female",18,NA,14.3,21.5
+"16171819","Local Authority","Aberdeen City","Smoking status","Current smoker","Male",20,NA,15.4,24.4
+"16171819","Local Authority","Aberdeen City","Smoking status","Never smoked/Used to smoke occasionally","Male",61,NA,55.2,66.2
+"16171819","Local Authority","Aberdeen City","Smoking status","Used to smoke regularly","Male",19,NA,15.2,23.6
+"16171819","Local Authority","Aberdeenshire","Smoking status","Current smoker","All",14,NA,11.4,16.3
+"16171819","Local Authority","Aberdeenshire","Smoking status","Never smoked/Used to smoke occasionally","All",61,NA,57.2,64.1
+"16171819","Local Authority","Aberdeenshire","Smoking status","Used to smoke regularly","All",26,NA,22.5,28.6
+"16171819","Local Authority","Aberdeenshire","Smoking status","Current smoker","Female",14,NA,10.9,17.5
+"16171819","Local Authority","Aberdeenshire","Smoking status","Never smoked/Used to smoke occasionally","Female",63,NA,58.4,67.6
+"16171819","Local Authority","Aberdeenshire","Smoking status","Used to smoke regularly","Female",23,NA,18.8,26.7
+"16171819","Local Authority","Aberdeenshire","Smoking status","Current smoker","Male",13,NA,9.7,17
+"16171819","Local Authority","Aberdeenshire","Smoking status","Never smoked/Used to smoke occasionally","Male",58,NA,52.9,63.2
+"16171819","Local Authority","Aberdeenshire","Smoking status","Used to smoke regularly","Male",29,NA,24,33.2
+"16171819","Local Authority","Dumfries and Galloway","Smoking status","Current smoker","All",19,NA,14.6,23.6
+"16171819","Local Authority","Dumfries and Galloway","Smoking status","Never smoked/Used to smoke occasionally","All",55,NA,49.9,60.4
+"16171819","Local Authority","Dumfries and Galloway","Smoking status","Used to smoke regularly","All",26,NA,21.3,30.1
+"16171819","Local Authority","Dumfries and Galloway","Smoking status","Current smoker","Female",15,NA,10.1,20.3
+"16171819","Local Authority","Dumfries and Galloway","Smoking status","Never smoked/Used to smoke occasionally","Female",60,NA,53.4,67
+"16171819","Local Authority","Dumfries and Galloway","Smoking status","Used to smoke regularly","Female",25,NA,18.7,30.4
+"16171819","Local Authority","Dumfries and Galloway","Smoking status","Current smoker","Male",23,NA,15.6,30
+"16171819","Local Authority","Dumfries and Galloway","Smoking status","Never smoked/Used to smoke occasionally","Male",50,NA,42.5,58.1
+"16171819","Local Authority","Dumfries and Galloway","Smoking status","Used to smoke regularly","Male",27,NA,20.4,33.4
+"16171819","Local Authority","Edinburgh City","Smoking status","Current smoker","All",18,NA,15.3,19.9
+"16171819","Local Authority","Edinburgh City","Smoking status","Never smoked/Used to smoke occasionally","All",63,NA,60.2,65.8
+"16171819","Local Authority","Edinburgh City","Smoking status","Used to smoke regularly","All",19,NA,17.1,21.6
+"16171819","Local Authority","Edinburgh City","Smoking status","Current smoker","Female",15,NA,12.6,18.2
+"16171819","Local Authority","Edinburgh City","Smoking status","Never smoked/Used to smoke occasionally","Female",65,NA,60.9,68.1
+"16171819","Local Authority","Edinburgh City","Smoking status","Used to smoke regularly","Female",20,NA,17.1,23
+"16171819","Local Authority","Edinburgh City","Smoking status","Current smoker","Male",20,NA,16.2,23.5
+"16171819","Local Authority","Edinburgh City","Smoking status","Never smoked/Used to smoke occasionally","Male",61,NA,57,65.9
+"16171819","Local Authority","Edinburgh City","Smoking status","Used to smoke regularly","Male",19,NA,15.2,22.1
+"16171819","Local Authority","Fife","Smoking status","Current smoker","All",18,NA,16.1,20.2
+"16171819","Local Authority","Fife","Smoking status","Never smoked/Used to smoke occasionally","All",55,NA,52.1,57.4
+"16171819","Local Authority","Fife","Smoking status","Used to smoke regularly","All",27,NA,24.9,29.4
+"16171819","Local Authority","Fife","Smoking status","Current smoker","Female",18,NA,15.5,20.8
+"16171819","Local Authority","Fife","Smoking status","Never smoked/Used to smoke occasionally","Female",56,NA,52.8,59.6
+"16171819","Local Authority","Fife","Smoking status","Used to smoke regularly","Female",26,NA,22.7,28.5
+"16171819","Local Authority","Fife","Smoking status","Current smoker","Male",18,NA,14.8,21.3
+"16171819","Local Authority","Fife","Smoking status","Never smoked/Used to smoke occasionally","Male",53,NA,49,57.2
+"16171819","Local Authority","Fife","Smoking status","Used to smoke regularly","Male",29,NA,25.3,32.4
+"16171819","Local Authority","Glasgow City","Smoking status","Current smoker","All",23,NA,20.8,25.8
+"16171819","Local Authority","Glasgow City","Smoking status","Never smoked/Used to smoke occasionally","All",56,NA,53.4,59.1
+"16171819","Local Authority","Glasgow City","Smoking status","Used to smoke regularly","All",20,NA,18.3,22.7
+"16171819","Local Authority","Glasgow City","Smoking status","Current smoker","Female",20,NA,17.3,23.2
+"16171819","Local Authority","Glasgow City","Smoking status","Never smoked/Used to smoke occasionally","Female",59,NA,55.6,62.8
+"16171819","Local Authority","Glasgow City","Smoking status","Used to smoke regularly","Female",21,NA,17.7,23.4
+"16171819","Local Authority","Glasgow City","Smoking status","Current smoker","Male",27,NA,22.7,30.8
+"16171819","Local Authority","Glasgow City","Smoking status","Never smoked/Used to smoke occasionally","Male",53,NA,48.3,57.4
+"16171819","Local Authority","Glasgow City","Smoking status","Used to smoke regularly","Male",20,NA,17,23.8
+"16171819","Local Authority","Na h-Eileanan Siar","Smoking status","Current smoker","All",16,NA,12.3,20
+"16171819","Local Authority","Na h-Eileanan Siar","Smoking status","Never smoked/Used to smoke occasionally","All",55,NA,50.2,60.7
+"16171819","Local Authority","Na h-Eileanan Siar","Smoking status","Used to smoke regularly","All",28,NA,23.8,33
+"16171819","Local Authority","Na h-Eileanan Siar","Smoking status","Current smoker","Female",13,NA,8.7,18.2
+"16171819","Local Authority","Na h-Eileanan Siar","Smoking status","Never smoked/Used to smoke occasionally","Female",59,NA,52.3,65.9
+"16171819","Local Authority","Na h-Eileanan Siar","Smoking status","Used to smoke regularly","Female",27,NA,21.4,33.6
+"16171819","Local Authority","Na h-Eileanan Siar","Smoking status","Current smoker","Male",19,NA,12.8,25.1
+"16171819","Local Authority","Na h-Eileanan Siar","Smoking status","Never smoked/Used to smoke occasionally","Male",52,NA,43.6,59.7
+"16171819","Local Authority","Na h-Eileanan Siar","Smoking status","Used to smoke regularly","Male",29,NA,22.4,36.4
+"16171819","Local Authority","North Lanarkshire","Smoking status","Current smoker","All",24,NA,20.3,27.2
+"16171819","Local Authority","North Lanarkshire","Smoking status","Never smoked/Used to smoke occasionally","All",51,NA,47.4,55.3
+"16171819","Local Authority","North Lanarkshire","Smoking status","Used to smoke regularly","All",25,NA,21.8,28
+"16171819","Local Authority","North Lanarkshire","Smoking status","Current smoker","Female",22,NA,18.3,26.4
+"16171819","Local Authority","North Lanarkshire","Smoking status","Never smoked/Used to smoke occasionally","Female",55,NA,50.3,59.8
+"16171819","Local Authority","North Lanarkshire","Smoking status","Used to smoke regularly","Female",23,NA,18.7,26.4
+"16171819","Local Authority","North Lanarkshire","Smoking status","Current smoker","Male",25,NA,19.4,30.8
+"16171819","Local Authority","North Lanarkshire","Smoking status","Never smoked/Used to smoke occasionally","Male",48,NA,41.4,53.8
+"16171819","Local Authority","North Lanarkshire","Smoking status","Used to smoke regularly","Male",27,NA,22.3,32.3
+"16171819","Local Authority","Orkney Islands","Smoking status","Current smoker","All",12,NA,8.7,15.6
+"16171819","Local Authority","Orkney Islands","Smoking status","Never smoked/Used to smoke occasionally","All",65,NA,60.3,69.9
+"16171819","Local Authority","Orkney Islands","Smoking status","Used to smoke regularly","All",23,NA,18.7,26.8
+"16171819","Local Authority","Orkney Islands","Smoking status","Current smoker","Female",9,NA,5.2,13.2
+"16171819","Local Authority","Orkney Islands","Smoking status","Never smoked/Used to smoke occasionally","Female",70,NA,63.8,76
+"16171819","Local Authority","Orkney Islands","Smoking status","Used to smoke regularly","Female",21,NA,15.5,26.3
+"16171819","Local Authority","Orkney Islands","Smoking status","Current smoker","Male",15,NA,9.7,21.3
+"16171819","Local Authority","Orkney Islands","Smoking status","Never smoked/Used to smoke occasionally","Male",60,NA,52,67
+"16171819","Local Authority","Orkney Islands","Smoking status","Used to smoke regularly","Male",25,NA,18.9,31.2
+"16171819","Local Authority","Scottish Borders","Smoking status","Current smoker","All",18,NA,14.3,21.8
+"16171819","Local Authority","Scottish Borders","Smoking status","Never smoked/Used to smoke occasionally","All",56,NA,51.3,60.9
+"16171819","Local Authority","Scottish Borders","Smoking status","Used to smoke regularly","All",26,NA,21.8,30
+"16171819","Local Authority","Scottish Borders","Smoking status","Current smoker","Female",18,NA,12.7,22.4
+"16171819","Local Authority","Scottish Borders","Smoking status","Never smoked/Used to smoke occasionally","Female",58,NA,52.1,64.6
+"16171819","Local Authority","Scottish Borders","Smoking status","Used to smoke regularly","Female",24,NA,18.9,29.3
+"16171819","Local Authority","Scottish Borders","Smoking status","Current smoker","Male",19,NA,12.7,24.5
+"16171819","Local Authority","Scottish Borders","Smoking status","Never smoked/Used to smoke occasionally","Male",53,NA,45.8,60.9
+"16171819","Local Authority","Scottish Borders","Smoking status","Used to smoke regularly","Male",28,NA,21.5,34.6
+"16171819","Local Authority","Shetland Islands","Smoking status","Current smoker","All",17,NA,13.6,21
+"16171819","Local Authority","Shetland Islands","Smoking status","Never smoked/Used to smoke occasionally","All",62,NA,56.7,66.3
+"16171819","Local Authority","Shetland Islands","Smoking status","Used to smoke regularly","All",21,NA,17.3,25
+"16171819","Local Authority","Shetland Islands","Smoking status","Current smoker","Female",14,NA,9.5,18.3
+"16171819","Local Authority","Shetland Islands","Smoking status","Never smoked/Used to smoke occasionally","Female",65,NA,59,71.5
+"16171819","Local Authority","Shetland Islands","Smoking status","Used to smoke regularly","Female",21,NA,15.6,26
+"16171819","Local Authority","Shetland Islands","Smoking status","Current smoker","Male",21,NA,15,27
+"16171819","Local Authority","Shetland Islands","Smoking status","Never smoked/Used to smoke occasionally","Male",57,NA,50.1,64.8
+"16171819","Local Authority","Shetland Islands","Smoking status","Used to smoke regularly","Male",22,NA,15.8,27.3
+"16171819","Local Authority","South Lanarkshire","Smoking status","Current smoker","All",18,NA,15,21.2
+"16171819","Local Authority","South Lanarkshire","Smoking status","Never smoked/Used to smoke occasionally","All",59,NA,54.9,62.5
+"16171819","Local Authority","South Lanarkshire","Smoking status","Used to smoke regularly","All",23,NA,20.2,26.2
+"16171819","Local Authority","South Lanarkshire","Smoking status","Current smoker","Female",17,NA,12.9,20.1
+"16171819","Local Authority","South Lanarkshire","Smoking status","Never smoked/Used to smoke occasionally","Female",60,NA,55.1,64.5
+"16171819","Local Authority","South Lanarkshire","Smoking status","Used to smoke regularly","Female",24,NA,19.7,27.6
+"16171819","Local Authority","South Lanarkshire","Smoking status","Current smoker","Male",20,NA,14.6,25.1
+"16171819","Local Authority","South Lanarkshire","Smoking status","Never smoked/Used to smoke occasionally","Male",57,NA,51.4,63.5
+"16171819","Local Authority","South Lanarkshire","Smoking status","Used to smoke regularly","Male",23,NA,18,27.4
+"16171819","Scotland","Scotland","E-cigarette use","Currently using","All",7,NA,6.6,7.5
+"16171819","Scotland","Scotland","E-cigarette use","Ever previously used","All",12,NA,11.1,12.2
+"16171819","Scotland","Scotland","E-cigarette use","Never used","All",81,NA,80.6,82
+"16171819","Scotland","Scotland","E-cigarette use","Currently using","Female",7,NA,6.2,7.3
+"16171819","Scotland","Scotland","E-cigarette use","Ever previously used","Female",11,NA,9.8,11.2
+"16171819","Scotland","Scotland","E-cigarette use","Never used","Female",83,NA,81.9,83.6
+"16171819","Scotland","Scotland","E-cigarette use","Currently using","Male",7,NA,6.7,8.1
+"16171819","Scotland","Scotland","E-cigarette use","Ever previously used","Male",13,NA,12,13.9
+"16171819","Scotland","Scotland","E-cigarette use","Never used","Male",80,NA,78.6,80.8
+"16171819","Scotland","Scotland","Smoking status","Current smoker","All",19,NA,18.1,19.5
+"16171819","Scotland","Scotland","Smoking status","Never smoked/Used to smoke occasionally","All",58,NA,56.7,58.4
+"16171819","Scotland","Scotland","Smoking status","Used to smoke regularly","All",24,NA,23,24.4
+"16171819","Scotland","Scotland","Smoking status","Current smoker","Female",17,NA,16.3,18
+"16171819","Scotland","Scotland","Smoking status","Never smoked/Used to smoke occasionally","Female",60,NA,59,61.1
+"16171819","Scotland","Scotland","Smoking status","Used to smoke regularly","Female",23,NA,21.9,23.7
+"16171819","Scotland","Scotland","Smoking status","Current smoker","Male",20,NA,19.4,21.6
+"16171819","Scotland","Scotland","Smoking status","Never smoked/Used to smoke occasionally","Male",55,NA,53.6,56.2
+"16171819","Scotland","Scotland","Smoking status","Used to smoke regularly","Male",25,NA,23.5,25.7
