@@ -1,3 +1,5 @@
+
+
 library(shiny)
 library(shinydashboard) 
 library(shinythemes)
@@ -22,7 +24,10 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                             ),
                             mainPanel(
                               h2("General Health Questionnare, Mental Wellbeing 
-                                 and Life Satisfaction")
+                                 and Life Satisfaction"),
+                              
+                              plotOutput(outputId = "plot")
+                              
                             )
                           )
                  ), 
@@ -48,3 +53,10 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                           )
                  ) 
 ) 
+
+
+
+
+
+
+
