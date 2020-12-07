@@ -5,17 +5,6 @@ library(shinydashboard)
 library(shinythemes)
 
 ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"), 
-                 tabPanel("Welcome Page",
-                          sidebarLayout(
-                            sidebarPanel(
-                              h3("Scottish Health App")
-                            ),
-                            mainPanel(
-                              h2("Welcome to the Scottish Health App - 
-                                 Link resources below")
-                            )
-                          )
-                 ), 
                  tabPanel("General Health",
                           sidebarLayout(
                             sidebarPanel(
@@ -51,7 +40,18 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                                  by region and SIMD in Scotland")
                             )
                           )
-                 ) 
+                 ), 
+                 tabPanel("Help and Information",
+                          sidebarLayout(
+                            sidebarPanel(
+                              h3("Scottish Health App")
+                            ),
+                            mainPanel(
+                              h2("Welcome to the Scottish Health App - 
+                                 Link resources below")
+                            )
+                          )
+                 )
 ) 
 
 
