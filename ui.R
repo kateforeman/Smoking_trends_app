@@ -21,8 +21,13 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                             mainPanel(
                               h2("General Health Questionnare, Mental Wellbeing 
                                  and Life Satisfaction"),
+                              conditionalPanel(condition = "input.indicator == 'Life Satisfaction'",
+                                               plotOutput(outputId = "life_satisfaction")),
+                              conditionalPanel(condition = "input.indicator == 'Mental Wellbeing'",
+                                               plotOutput(outputId = "mental_wellbeing")),
+                              conditionalPanel(condition = "input.indicator == 'Life Expectancy'",
+                                               plotOutput(outputId = "life_expectancy"))
                               
-                              plotOutput(outputId = "plot")
                               
                             )
                           )
