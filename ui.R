@@ -40,21 +40,31 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                           sidebarLayout(
                             sidebarPanel(
                               
-                              br(),
-                              br(),
+                              h2("Changes in smoking and E-cigarette Usage over time"),
+                              
                               br(),
                               br(),
                               
-                              selectInput("indicator", 
-                                          label = "Select Indictaor",
+                              pickerInput("smoking_indicator", 
+                                          (h4("Select Indictaor")),
                                           choices = c("Current Smoker", "Used to Smoke", "Never Smoked", 
                                                       "E-cigarette: Current User", "E-cigarette: Previous User",
-                                                      "E-cigarette: Never Used")),
+                                                      "E-cigarette: Never Used"),
+                              options = list(`actions-box` = TRUE),
+                              multiple = T,
+                              width = NULL,
+                              ),
                               
+                              br(),
+                              
+                              actionButton("update", (h4("Update"))),
+                              
+                            
                             ), # <--- closes sidebar panel
+                            
+                            
                           
                             mainPanel(
-                              h2("Changes in smoking and E-cigarette Usage over time"),
                               
                               plotOutput(outputId = "smoking")
                               
@@ -63,6 +73,7 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                           ), # <--- closes sidebar layout 
                           
                  ), # <--- closes smoking trend tab panel
+                 
                  
                  tabPanel("Smoking and E-cigarette Usage by Location",
                           sidebarLayout(

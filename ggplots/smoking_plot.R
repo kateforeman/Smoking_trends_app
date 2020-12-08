@@ -22,6 +22,7 @@ smoking_ecigarette_use_data_plot <- smoking_data %>%
 smoking_ecigarette_use_data_plot
 
 
+
 # make a plot for smoking only: ----
 
 smoking_data_plot <- smoking_data %>% 
@@ -59,3 +60,9 @@ e_cigarette_use_data_plot <- smoking_data %>%
 e_cigarette_use_data_plot
 
 # end ----
+
+
+
+
+
+
