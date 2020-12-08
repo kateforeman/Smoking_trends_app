@@ -13,8 +13,7 @@ life_satisfaction <- scotland_survey_cleaned %>%
 life_satisfaction
   
 
-life_satisfaction %>% 
-  mutate(column_name = recode(column_name, "Life satisfaction: Above the mode (9 to 10-Extremely satisfied" = "Above Mode")) %>% 
+life_satisfaction_plot <- life_satisfaction %>% 
   filter(sex == "All") %>% 
   ggplot(aes(date_code, percent, colour = scottish_health_survey_indicator)) + 
   geom_line() + 
@@ -23,3 +22,4 @@ life_satisfaction %>%
   labs(x = "Year", y = "Percentage", title = "Life Satisfaction", colour = "Life satisfaction Indicator") +
   #CHANGE LEGEND NAMES? scale_fill_discret?
   theme_light()
+
