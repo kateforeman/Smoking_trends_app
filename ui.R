@@ -15,8 +15,9 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                                                       "Mental Wellbeing", 
                                                       "Life Expectancy"), selected = 
                                             "Life Satisfaction"), 
-                            checkboxInput("sex", label = "Break Down by Sex")
-                            ),
+                              conditionalPanel(condition = "input.indicator !== 'Life Expectancy'",
+                                               checkboxInput("sex", label = "Break Down by Sex"))), 
+                              
                             mainPanel(
                               h2("General Health Questionnare, Mental Wellbeing 
                                  and Life Satisfaction"),
@@ -28,7 +29,7 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                                                plotOutput(outputId = "life_expectancy"))
                               
                             )
-                          )
+                      )
                  ), 
                  tabPanel("Scottish Smoking and E-cigarette Trend", 
                           sidebarLayout(
