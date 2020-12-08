@@ -16,7 +16,9 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                                           choices = c("Life Satisfaction", 
                                                       "Mental Wellbeing", 
                                                       "Life Expectancy"), selected = 
-                                            "Life Satisfaction")
+                                            "Life Satisfaction"),
+                              conditionalPanel(condition = "input.indicator != 'Life Expectancy'",
+                                               checkboxInput("sex", label = "Break Down by Sex"))
                             ),
                             mainPanel(
                               h2("General Health Questionnare, Mental Wellbeing 
