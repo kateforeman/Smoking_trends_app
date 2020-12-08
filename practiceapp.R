@@ -1,31 +1,31 @@
-
-
 library(shiny)
 library(shinydashboard) 
 library(shinythemes)
 
 ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"), 
-                 tabPanel("General Health",
+                 tabPanel("Welcome Page",
                           sidebarLayout(
                             sidebarPanel(
-                              br(), 
-                              br(), 
-                              br(), 
-                              br(), 
-                              selectInput("indicator", label = "Select Indicator", 
-                                          choices = c("Life Satisfaction", 
-                                                      "Mental Wellbeing", 
-                                                      "Life Expectancy"), )
+                              h3("Scottish Health App")
                             ),
                             mainPanel(
-                              h2("General Health Questionnare, Mental Wellbeing 
-                                 and Life Satisfaction"),
-                              
-                              plotOutput(outputId = "plot")
-                              
+                              h2("Welcome to the Scottish Health App - 
+                                 Link resources below")
                             )
                           )
                  ), 
+                 tabPanel("General Health",
+                          sidebarLayout(
+                            sidebarPanel(
+                              h3("A brief introduction to the data e.g. 
+                                 the mental wellbeing scale")
+                            ),
+                            mainPanel(
+                              h2("General Health Questionnare, Mental Wellbeing 
+                                 and Life Satisfaction")
+                            )
+                          )
+                        ), 
                  tabPanel("Scottish Smoking and E-cigarette Trend", 
                           sidebarLayout(
                             sidebarPanel(
@@ -46,23 +46,10 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                                  by region and SIMD in Scotland")
                             )
                           )
-                 ), 
-                 tabPanel("Help and Information",
-                          sidebarLayout(
-                            sidebarPanel(
-                              h3("Scottish Health App")
-                            ),
-                            mainPanel(
-                              h2("Welcome to the Scottish Health App - 
-                                 Link resources below")
-                            )
-                          )
-                 )
+                 ) 
 ) 
+                      
 
+server <- function(input, output) { }
 
-
-
-
-
-
+shinyApp(ui, server) 
