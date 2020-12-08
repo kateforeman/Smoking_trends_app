@@ -10,8 +10,8 @@ life_satisfaction <- scotland_survey_cleaned %>%
   select(date_code, scottish_health_survey_indicator, sex, percent, lower_confidence_limit_95_percent, upper_confidence_limit_95_percent) %>% 
   filter(scottish_health_survey_indicator ==  c("Life satisfaction: Above the mode (9 to 10-Extremely satisfied)", "Life satisfaction: Below the mode (0-Extremely dissatisfied to 7)","Life satisfaction: Mode (8)")) 
 
-life_satisfaction
-  
+life_satisfaction 
+
 
 life_satisfaction_plot <- life_satisfaction %>% 
   filter(sex == "All") %>% 
