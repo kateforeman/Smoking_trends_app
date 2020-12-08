@@ -8,7 +8,7 @@ wellbeing <- wellbeing %>%
   arrange(date_code)
 
 wellbeing_plot <- wellbeing %>% 
-  ggplot(aes(x = date_code, y = mean, colour = sex)) +
+  ggplot(aes(x = date_code, y = mean)) +
   
   geom_point() +
   scale_x_continuous(breaks = c(2008, 2009, 2010, 2011, 2012, 2013,
