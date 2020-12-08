@@ -1,4 +1,5 @@
 
+
 source("cleaning_scripts/part1_cleaning.R")
 
 wellbeing <- scotland_survey_cleaned

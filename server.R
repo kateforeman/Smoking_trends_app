@@ -3,8 +3,11 @@
 source("ggplots/wellbeing_plot_updated.R")
 source("ggplots/life_expectancy_plot.R") 
 source("ggplots/life_satisfaction.R") 
+source("ggplots/smoking_plot.R")
+
 
 server <- function(input,output){
+  
   output$life_satisfaction <- renderPlot({
     life_satisfaction_plot 
     
@@ -27,5 +30,13 @@ server <- function(input,output){
     life_expectancy_plot
   }) 
   
-}
+  output$smoking <- renderPlot({
+    smoking_ecigarette_use_data_plot
+    })
+  
+    
+
+  
+} # <--- closes server
+
 
