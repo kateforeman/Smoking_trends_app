@@ -33,8 +33,8 @@ server <- function(input,output){
   output$smoking <- renderPlot({
     smoking_data_updated %>% 
       filter(sex == "All",
-             categories %in% input$smoking_indicator) %>% 
-      ggplot(aes(x = year, y = percent, colour = categories)) +
+             scottish_health_survey_indicator %in% input$smoking_indicator) %>% 
+      ggplot(aes(x = date_code, y = percent, colour = scottish_health_survey_indicator)) +
       geom_point() +
       geom_line() +
       scale_x_continuous(breaks = c(2008, 2009, 2010, 2011, 2012, 2013,
