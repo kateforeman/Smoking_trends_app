@@ -97,18 +97,71 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                  ), # <--- closes smoking map tab panel
                  
                  tabPanel("Help and Information",
-                          sidebarLayout(
-                            sidebarPanel(
-                              h3("Scottish Health App")
-                            ),
-                            mainPanel(
-                              h2("Welcome to the Scottish Health App - 
-                                 Link resources below")
+                          
+                          mainPanel(
+                              
+                              h3("User Guide"), # <--- user guide
+                              br(),
+                              h4("In order to use the app, the user navigates between
+                                 the tabs located in the bar at the top of the app."),
+                              br(),
+                              h4("General Health Tab"),
+                              h4("This tab allows the user to view the general
+                                 health trend across Scotland, by selecting an indicator
+                                 from the drop down menu."),
+                              h5("Please note that 'Life Satisfaction' and 'Mental
+                                 Wellbeing' indicators can be broken down by sex
+                                 by selecting the tick box."),
+                              br(),
+                              h4("Scottish Smoking and E-cigarette Trend Tab"),
+                              h4("This tab allows the user to view smoking and e-cigarette
+                                 trends. The user can select one or multiple indicators,
+                                 which will plot the results accordingly. Included within
+                                 the indicator selections are 'Asthma' and 'Cardiovascular'
+                                 trends."),
+                              br(),
+                              h4("Scottish Smoking and E-cigarette Usage by Location Tab"),
+                              h4("This tab allows the user to view smoking and e-cigarette
+                                 trends across Scotland on a map. The user can select either
+                                 'Smoking' or 'E-cigarette Use' and can also be filtered
+                                 by sex. The results are then displayed on the map."),
+                              hr(),
+                              
+                              h3("App Bio"), # <--- app bio
+                              br(),
+                              h4("This app has two main objectives; the first is to provide 
+                              an overview of Scottish public health and the second is to 
+                              provide an overview of the smoking and e-cigarette trend in Scotland."),
+                              
+                              br(),
+                              
+                              h4("General Health has incorporated three factors: 'Life Statisfaction',
+                                 'Mental Wellbeing' and 'Life Expectancy'."),
+                                 
+                              
+                              hr(),
+                              
+                              h3("Resources"), # <--- user guide
+                              br(),
+                              
+                              a(href = "https://statistics.gov.scot/home",
+                                "Open Data from the Scottish Government"),
+                              
+                              br(),
+                              
+                              a(href = "https://www.gov.scot/publications/scotlands-public-health-priorities/", 
+                                "Official Report of Scotland’s Public Health Priorities"),
+                              
+                              br(),
+                              hr(),
+                              
                             )
-                          )
-                 ) # <--- closes help and info tab panel
+                          )  # <--- closes help and info tab panel
+                 
                  
 ) # <--- closes navbar page
+
+
 
 
 
