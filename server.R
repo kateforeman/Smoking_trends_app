@@ -6,12 +6,12 @@ source("ggplots/life_satisfaction.R")
 
 server <- function(input,output){
   output$life_satisfaction <- renderPlot({
-    life_satisfaction_plot 
+    life_satisfaction_plot_all 
     
     if(input$sex) {
       ls <- life_satisfaction_plot + facet_wrap(~ sex) 
     ls }
-    else{life_satisfaction_plot}
+    else{life_satisfaction_plot_all}
   })
   
   output$mental_wellbeing <- renderPlot({
