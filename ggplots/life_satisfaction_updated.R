@@ -24,6 +24,5 @@ life_satisfaction_plot <- life_satisfaction_rename %>%
   geom_point()+
   scale_x_continuous(breaks = c(2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019))+
   labs(x = "Year", y = "Percentage", title = "Life Satisfaction", colour = "Life satisfaction Indicator") +
-  #CHANGE LEGEND NAMES? scale_fill_discret?
   theme_light()
 
