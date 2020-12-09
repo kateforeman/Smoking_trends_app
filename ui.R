@@ -5,8 +5,12 @@ library(shinydashboard)
 library(shinythemes)
 library(shinyWidgets)
 
-indicator_choices <- c("Never Smoked", "Used to Smoke", "Current Smoker", "E-cigarette: Current User", "E-cigarette: Previous User", "E-cigarette: Never Used")
-# new indicator here 
+indicator_choices <- c("Never Smoked", "Used to Smoke", "Current Smoker", 
+                       "E-cigarette: Current User", "E-cigarette: Previous User", 
+                       "E-cigarette: Never Used", "Asthmatic",
+                       "Non-asthmatic", "Cardiovascular Condition: Yes",
+                       "Cardiovascular Condition: No")
+
 
 ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"), 
                  tabPanel("General Health",
