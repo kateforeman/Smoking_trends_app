@@ -5,6 +5,8 @@ library(shinydashboard)
 library(shinythemes)
 library(shinyWidgets)
 
+indicator_choices <- c("Never Smoked", "Used to Smoke", "Current Smoker", "E-cigarette: Current User", "E-cigarette: Previous User", "E-cigarette: Never Used")
+
 ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"), 
                  tabPanel("General Health",
                           sidebarLayout(
@@ -48,11 +50,9 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                               br(),
                               br(),
                               
-                              pickerInput("smoking_indicator", 
+                              pickerInput(inputId = "smoking_indicator", 
                                           (h4("Select Indictaor")),
-                                          choices = c("Current Smoker", "Used to Smoke", "Never Smoked", 
-                                                      "E-cigarette: Current User", "E-cigarette: Previous User",
-                                                      "E-cigarette: Never Used"),
+                                          choices = indicator_choices,
                               options = list(`actions-box` = TRUE),
                               multiple = T,
                               width = NULL,
@@ -60,7 +60,7 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                               
                               br(),
                               
-                              actionButton("update", (h4("Update"))),
+                              #actionButton("update", (h4("Update"))),
                               
                             
                             ), # <--- closes sidebar panel

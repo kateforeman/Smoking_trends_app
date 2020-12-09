@@ -13,7 +13,7 @@ gooder_chunks <- ms_simplify(good_chunks) %>%
 
 source("cleaning_scripts/part2_data_cleaning.R")
 
-hbcodes <- unique(gooder_chunks$HBCode)
+hbcodes <- unique(gooder_chunks$feature_code)
 
 names(gooder_chunks)
 unique(local_scotland_part2_cleaned$scottish_health_survey_indicator)
