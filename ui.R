@@ -45,7 +45,7 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                           sidebarLayout(
                             sidebarPanel(
                               
-                              h2("Changes in smoking and E-cigarette Usage over time"),
+                              h2("Changes in smoking and e-cigarette usage over time"),
                               
                               br(),
                               br(),
