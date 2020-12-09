@@ -1,0 +1,163 @@
+"Year","Geographylevel","Indicator","Categories","Sex","Percent","Mean","LowerCI","UpperCI"
+"2014","Scotland","E-cigarette use","Currently using","All",5,NA,4.2,5.9
+"2014","Scotland","E-cigarette use","Ever previously used","All",10,NA,8.7,11
+"2014","Scotland","E-cigarette use","Never used","All",85,NA,83.7,86.5
+"2014","Scotland","E-cigarette use","Currently using","Female",5,NA,4.3,6.3
+"2014","Scotland","E-cigarette use","Ever previously used","Female",9,NA,8,10.7
+"2014","Scotland","E-cigarette use","Never used","Female",85,NA,83.7,86.9
+"2014","Scotland","E-cigarette use","Currently using","Male",5,NA,3.5,6
+"2014","Scotland","E-cigarette use","Ever previously used","Male",10,NA,8.6,12.1
+"2014","Scotland","E-cigarette use","Never used","Male",85,NA,82.8,86.9
+"2015","Scotland","E-cigarette use","Currently using","All",7,NA,5.6,7.5
+"2015","Scotland","E-cigarette use","Ever previously used","All",11,NA,9.6,12.2
+"2015","Scotland","E-cigarette use","Never used","All",83,NA,81,84
+"2015","Scotland","E-cigarette use","Currently using","Female",7,NA,5.6,7.7
+"2015","Scotland","E-cigarette use","Ever previously used","Female",10,NA,8.5,11.4
+"2015","Scotland","E-cigarette use","Never used","Female",83,NA,81.8,85.1
+"2015","Scotland","E-cigarette use","Currently using","Male",6,NA,5.2,7.8
+"2015","Scotland","E-cigarette use","Ever previously used","Male",12,NA,10,13.9
+"2015","Scotland","E-cigarette use","Never used","Male",82,NA,79.3,83.8
+"2016","Scotland","E-cigarette use","Currently using","All",7,NA,6,8.1
+"2016","Scotland","E-cigarette use","Ever previously used","All",12,NA,10.4,13.3
+"2016","Scotland","E-cigarette use","Never used","All",81,NA,79.4,82.7
+"2016","Scotland","E-cigarette use","Currently using","Female",7,NA,5.7,8.2
+"2016","Scotland","E-cigarette use","Ever previously used","Female",10,NA,8.9,12
+"2016","Scotland","E-cigarette use","Never used","Female",83,NA,80.6,84.5
+"2016","Scotland","E-cigarette use","Currently using","Male",7,NA,5.7,8.5
+"2016","Scotland","E-cigarette use","Ever previously used","Male",13,NA,11.2,15.5
+"2016","Scotland","E-cigarette use","Never used","Male",79,NA,77.1,81.9
+"2017","Scotland","E-cigarette use","Currently using","All",7,NA,6.2,8.3
+"2017","Scotland","E-cigarette use","Ever previously used","All",11,NA,9.9,12.7
+"2017","Scotland","E-cigarette use","Never used","All",81,NA,79.7,83.1
+"2017","Scotland","E-cigarette use","Currently using","Female",7,NA,5.9,8.4
+"2017","Scotland","E-cigarette use","Ever previously used","Female",10,NA,8.3,11.5
+"2017","Scotland","E-cigarette use","Never used","Female",83,NA,80.9,85
+"2017","Scotland","E-cigarette use","Currently using","Male",7,NA,5.9,8.9
+"2017","Scotland","E-cigarette use","Ever previously used","Male",13,NA,10.9,14.8
+"2017","Scotland","E-cigarette use","Never used","Male",80,NA,77.3,82.1
+"2018","Scotland","E-cigarette use","Currently using","All",7,NA,6,8
+"2018","Scotland","E-cigarette use","Ever previously used","All",11,NA,9.5,12.2
+"2018","Scotland","E-cigarette use","Never used","All",82,NA,80.6,83.7
+"2018","Scotland","E-cigarette use","Currently using","Female",6,NA,5,6.9
+"2018","Scotland","E-cigarette use","Ever previously used","Female",10,NA,8.5,11.3
+"2018","Scotland","E-cigarette use","Never used","Female",84,NA,82.4,85.8
+"2018","Scotland","E-cigarette use","Currently using","Male",8,NA,6.6,9.7
+"2018","Scotland","E-cigarette use","Ever previously used","Male",12,NA,10,13.7
+"2018","Scotland","E-cigarette use","Never used","Male",80,NA,77.8,82.2
+"2019","Scotland","E-cigarette use","Currently using","All",7,NA,6,7.8
+"2019","Scotland","E-cigarette use","Ever previously used","All",13,NA,11.4,14.1
+"2019","Scotland","E-cigarette use","Never used","All",80,NA,78.7,81.9
+"2019","Scotland","E-cigarette use","Currently using","Female",7,NA,5.9,8
+"2019","Scotland","E-cigarette use","Ever previously used","Female",12,NA,10.2,13.3
+"2019","Scotland","E-cigarette use","Never used","Female",81,NA,79.6,83
+"2019","Scotland","E-cigarette use","Currently using","Male",7,NA,5.6,8.1
+"2019","Scotland","E-cigarette use","Ever previously used","Male",14,NA,11.8,15.9
+"2019","Scotland","E-cigarette use","Never used","Male",79,NA,77,81.6
+"2008","Scotland","Smoking status","Never smoked/Used to smoke occasionally","All",51,NA,49.3,52.5
+"2008","Scotland","Smoking status","Used to smoke regularly","All",23,NA,22.1,24.7
+"2008","Scotland","Smoking status","Current smoker","All",26,NA,24.2,27.2
+"2008","Scotland","Smoking status","Never smoked/Used to smoke occasionally","Female",53,NA,50.9,54.8
+"2008","Scotland","Smoking status","Used to smoke regularly","Female",22,NA,20.9,23.9
+"2008","Scotland","Smoking status","Current smoker","Female",25,NA,23,26.4
+"2008","Scotland","Smoking status","Never smoked/Used to smoke occasionally","Male",49,NA,46.4,51.2
+"2008","Scotland","Smoking status","Used to smoke regularly","Male",24,NA,22.6,26.3
+"2008","Scotland","Smoking status","Current smoker","Male",27,NA,24.7,28.8
+"2009","Scotland","Smoking status","Never smoked/Used to smoke occasionally","All",53,NA,51.6,54.8
+"2009","Scotland","Smoking status","Used to smoke regularly","All",22,NA,20.6,22.9
+"2009","Scotland","Smoking status","Current smoker","All",25,NA,23.5,26.5
+"2009","Scotland","Smoking status","Never smoked/Used to smoke occasionally","Female",55,NA,53.5,57.4
+"2009","Scotland","Smoking status","Used to smoke regularly","Female",20,NA,18.6,21.2
+"2009","Scotland","Smoking status","Current smoker","Female",25,NA,22.9,26.3
+"2009","Scotland","Smoking status","Never smoked/Used to smoke occasionally","Male",51,NA,48.4,53
+"2009","Scotland","Smoking status","Used to smoke regularly","Male",24,NA,22.2,25.6
+"2009","Scotland","Smoking status","Current smoker","Male",25,NA,23.4,27.5
+"2010","Scotland","Smoking status","Never smoked/Used to smoke occasionally","All",52,NA,50.3,53.7
+"2010","Scotland","Smoking status","Used to smoke regularly","All",23,NA,21.4,23.8
+"2010","Scotland","Smoking status","Current smoker","All",25,NA,24,26.8
+"2010","Scotland","Smoking status","Never smoked/Used to smoke occasionally","Female",54,NA,52.1,55.8
+"2010","Scotland","Smoking status","Used to smoke regularly","Female",21,NA,20,22.8
+"2010","Scotland","Smoking status","Current smoker","Female",25,NA,23,26.3
+"2010","Scotland","Smoking status","Never smoked/Used to smoke occasionally","Male",50,NA,47.5,52.2
+"2010","Scotland","Smoking status","Used to smoke regularly","Male",24,NA,22.2,25.7
+"2010","Scotland","Smoking status","Current smoker","Male",26,NA,24.2,28.3
+"2011","Scotland","Smoking status","Never smoked/Used to smoke occasionally","All",55,NA,53.6,56.5
+"2011","Scotland","Smoking status","Used to smoke regularly","All",22,NA,20.5,22.7
+"2011","Scotland","Smoking status","Current smoker","All",23,NA,22,24.8
+"2011","Scotland","Smoking status","Never smoked/Used to smoke occasionally","Female",57,NA,55.6,59.2
+"2011","Scotland","Smoking status","Used to smoke regularly","Female",20,NA,18.8,21.5
+"2011","Scotland","Smoking status","Current smoker","Female",22,NA,20.9,24
+"2011","Scotland","Smoking status","Never smoked/Used to smoke occasionally","Male",52,NA,50.4,54.4
+"2011","Scotland","Smoking status","Used to smoke regularly","Male",23,NA,21.6,24.8
+"2011","Scotland","Smoking status","Current smoker","Male",24,NA,22.6,26.2
+"2012","Scotland","Smoking status","Never smoked/Used to smoke occasionally","All",54,NA,51.7,55.9
+"2012","Scotland","Smoking status","Used to smoke regularly","All",22,NA,20.3,23.1
+"2012","Scotland","Smoking status","Current smoker","All",25,NA,22.6,26.5
+"2012","Scotland","Smoking status","Never smoked/Used to smoke occasionally","Female",55,NA,53,57.9
+"2012","Scotland","Smoking status","Used to smoke regularly","Female",21,NA,19.1,22.6
+"2012","Scotland","Smoking status","Current smoker","Female",24,NA,21.6,25.8
+"2012","Scotland","Smoking status","Never smoked/Used to smoke occasionally","Male",52,NA,49,54.9
+"2012","Scotland","Smoking status","Used to smoke regularly","Male",23,NA,20.6,24.6
+"2012","Scotland","Smoking status","Current smoker","Male",25,NA,22.8,28.1
+"2013","Scotland","Smoking status","Never smoked/Used to smoke occasionally","All",54,NA,52.3,56.4
+"2013","Scotland","Smoking status","Used to smoke regularly","All",24,NA,22.8,25.6
+"2013","Scotland","Smoking status","Current smoker","All",21,NA,19.9,23.1
+"2013","Scotland","Smoking status","Never smoked/Used to smoke occasionally","Female",57,NA,54.8,59.3
+"2013","Scotland","Smoking status","Used to smoke regularly","Female",23,NA,21.4,24.9
+"2013","Scotland","Smoking status","Current smoker","Female",20,NA,17.9,21.7
+"2013","Scotland","Smoking status","Never smoked/Used to smoke occasionally","Male",51,NA,48.5,54.1
+"2013","Scotland","Smoking status","Used to smoke regularly","Male",25,NA,23.3,27.4
+"2013","Scotland","Smoking status","Current smoker","Male",23,NA,21.1,25.5
+"2014","Scotland","Smoking status","Never smoked/Used to smoke occasionally","All",55,NA,53,57
+"2014","Scotland","Smoking status","Used to smoke regularly","All",23,NA,21.6,24.7
+"2014","Scotland","Smoking status","Current smoker","All",22,NA,20.1,23.6
+"2014","Scotland","Smoking status","Never smoked/Used to smoke occasionally","Female",56,NA,53.5,58.5
+"2014","Scotland","Smoking status","Used to smoke regularly","Female",23,NA,21,24.9
+"2014","Scotland","Smoking status","Current smoker","Female",21,NA,19,23.1
+"2014","Scotland","Smoking status","Never smoked/Used to smoke occasionally","Male",54,NA,51.2,56.6
+"2014","Scotland","Smoking status","Used to smoke regularly","Male",23,NA,21.2,25.7
+"2014","Scotland","Smoking status","Current smoker","Male",23,NA,20.3,25
+"2015","Scotland","Smoking status","Never smoked/Used to smoke occasionally","All",54,NA,52.1,56.3
+"2015","Scotland","Smoking status","Used to smoke regularly","All",25,NA,23.3,26.4
+"2015","Scotland","Smoking status","Current smoker","All",21,NA,19.3,22.6
+"2015","Scotland","Smoking status","Never smoked/Used to smoke occasionally","Female",57,NA,54.4,59.2
+"2015","Scotland","Smoking status","Used to smoke regularly","Female",23,NA,21.4,25.2
+"2015","Scotland","Smoking status","Current smoker","Female",20,NA,18.1,21.9
+"2015","Scotland","Smoking status","Never smoked/Used to smoke occasionally","Male",51,NA,48.6,54.2
+"2015","Scotland","Smoking status","Used to smoke regularly","Male",27,NA,24.3,28.8
+"2015","Scotland","Smoking status","Current smoker","Male",22,NA,19.7,24.3
+"2016","Scotland","Smoking status","Never smoked/Used to smoke occasionally","All",55,NA,52.9,56.9
+"2016","Scotland","Smoking status","Used to smoke regularly","All",24,NA,22.3,25.7
+"2016","Scotland","Smoking status","Current smoker","All",21,NA,19.4,22.8
+"2016","Scotland","Smoking status","Never smoked/Used to smoke occasionally","Female",58,NA,55.1,60
+"2016","Scotland","Smoking status","Used to smoke regularly","Female",23,NA,20.7,24.7
+"2016","Scotland","Smoking status","Current smoker","Female",20,NA,17.7,21.7
+"2016","Scotland","Smoking status","Never smoked/Used to smoke occasionally","Male",52,NA,49.2,54.8
+"2016","Scotland","Smoking status","Used to smoke regularly","Male",25,NA,23.2,27.6
+"2016","Scotland","Smoking status","Current smoker","Male",23,NA,20.2,25
+"2017","Scotland","Smoking status","Never smoked/Used to smoke occasionally","All",56,NA,53.5,58.3
+"2017","Scotland","Smoking status","Used to smoke regularly","All",26,NA,24,27.8
+"2017","Scotland","Smoking status","Current smoker","All",18,NA,16.5,19.9
+"2017","Scotland","Smoking status","Never smoked/Used to smoke occasionally","Female",60,NA,57.1,62.5
+"2017","Scotland","Smoking status","Used to smoke regularly","Female",24,NA,22.1,26.3
+"2017","Scotland","Smoking status","Current smoker","Female",16,NA,14.1,18
+"2017","Scotland","Smoking status","Never smoked/Used to smoke occasionally","Male",52,NA,48.5,55.2
+"2017","Scotland","Smoking status","Used to smoke regularly","Male",28,NA,24.9,30.5
+"2017","Scotland","Smoking status","Current smoker","Male",20,NA,18,22.9
+"2018","Scotland","Smoking status","Never smoked/Used to smoke occasionally","All",59,NA,57.5,61.4
+"2018","Scotland","Smoking status","Used to smoke regularly","All",22,NA,20.4,23.3
+"2018","Scotland","Smoking status","Current smoker","All",19,NA,17,20.5
+"2018","Scotland","Smoking status","Never smoked/Used to smoke occasionally","Female",62,NA,59.4,64
+"2018","Scotland","Smoking status","Used to smoke regularly","Female",22,NA,19.8,23.2
+"2018","Scotland","Smoking status","Current smoker","Female",17,NA,15.2,18.5
+"2018","Scotland","Smoking status","Never smoked/Used to smoke occasionally","Male",57,NA,54.4,59.8
+"2018","Scotland","Smoking status","Used to smoke regularly","Male",22,NA,20.1,24.2
+"2018","Scotland","Smoking status","Current smoker","Male",21,NA,18.1,23.4
+"2019","Scotland","Smoking status","Never smoked/Used to smoke occasionally","All",59,NA,57.6,61.4
+"2019","Scotland","Smoking status","Used to smoke regularly","All",23,NA,21.6,24.6
+"2019","Scotland","Smoking status","Current smoker","All",17,NA,15.8,19
+"2019","Scotland","Smoking status","Never smoked/Used to smoke occasionally","Female",61,NA,59,63.4
+"2019","Scotland","Smoking status","Used to smoke regularly","Female",23,NA,20.9,24.3
+"2019","Scotland","Smoking status","Current smoker","Female",16,NA,14.4,18
+"2019","Scotland","Smoking status","Never smoked/Used to smoke occasionally","Male",58,NA,55.1,60.3
+"2019","Scotland","Smoking status","Used to smoke regularly","Male",24,NA,21.4,25.7
+"2019","Scotland","Smoking status","Current smoker","Male",19,NA,16.5,21
