@@ -31,7 +31,7 @@ server <- function(input,output){
   }) 
   
   output$smoking <- renderPlot({
-    smoking_data %>% 
+    smoking_data_updated %>% 
       filter(sex == "All",
              categories %in% input$smoking_indicator) %>% 
       ggplot(aes(x = year, y = percent, colour = categories)) +
