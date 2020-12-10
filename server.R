@@ -10,12 +10,13 @@ source("cleaning_scripts/map_data_prep.R")
 server <- function(input,output){
   
   output$life_satisfaction <- renderPlot({
-    life_satisfaction_plot 
+    life_satisfaction_plot_all 
     
     if(input$sex) {
       ls <- life_satisfaction_plot + facet_wrap(~ sex) 
-      ls }
-    else{life_satisfaction_plot}
+    ls }
+
+    else{life_satisfaction_plot_all}
   })
   
   output$mental_wellbeing <- renderPlot({
@@ -32,10 +33,10 @@ server <- function(input,output){
   }) 
   
   output$smoking <- renderPlot({
-    smoking_data %>% 
+    smoking_data_updated %>% 
       filter(sex == "All",
-             categories %in% input$smoking_indicator) %>% 
-      ggplot(aes(x = year, y = percent, colour = categories)) +
+             scottish_health_survey_indicator %in% input$smoking_indicator) %>% 
+      ggplot(aes(x = date_code, y = percent, colour = scottish_health_survey_indicator)) +
       geom_point() +
       geom_line() +
       scale_x_continuous(breaks = c(2008, 2009, 2010, 2011, 2012, 2013,
@@ -45,6 +46,7 @@ server <- function(input,output){
       labs(x = "Year", y = "Percent", title = "Smoking and E-cigarette Use", colour = " ") +
       theme_light()
     })
+
 
   # Reactive Data for Map
     map_data <- eventReactive(input$map_update, {
@@ -81,6 +83,7 @@ server <- function(input,output){
     height = 800,
     width = 560)
     
+
 
   
 } # <--- closes server
