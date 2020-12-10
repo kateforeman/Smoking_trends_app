@@ -61,9 +61,6 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                               
                               br(),
                               
-                              #actionButton("update", (h4("Update"))),
-                              
-                            
                             ), # <--- closes sidebar panel
                             
                             
@@ -71,7 +68,6 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                             mainPanel(
                               
                               plotOutput(outputId = "smoking")
-                              
                             ) # <--- closes main panel
                             
                           ), # <--- closes sidebar layout 
@@ -90,7 +86,17 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                                  by region and SIMD in Scotland")
                             )
                           )
-                 ), # <--- closes smoking map tab panel
+                 ),
+                 
+                 tabPanel("Smoking and Cardiovascular Conditions", 
+                          mainPanel(
+                            h2("The relationship between smoking in Scotland and 
+                               cardiovascular conditions", 
+                               br(), 
+                               br(), 
+                            plotOutput(outputId = "correlation"))
+                          )
+                        ),  
                  
                  tabPanel("Help and Information",
                           sidebarLayout(

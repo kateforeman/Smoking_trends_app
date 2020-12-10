@@ -44,7 +44,11 @@ server <- function(input,output){
                          limits = c(0, 90)) +
       labs(x = "Year", y = "Percent", title = "Smoking and E-cigarette Use", colour = " ") +
       theme_light()
-    })
+    }) 
+  
+  output$correlation <- renderPlot({
+    correlation_plot
+  })
 
   
 } # <--- closes server
