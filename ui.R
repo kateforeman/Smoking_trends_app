@@ -4,7 +4,6 @@ library(shinythemes)
 library(shinyWidgets)
 
 
-
 indicators_for_map <- c("Currently Smoking", "Currently using E-cigarette")
 
 indicator_choices <- c("Never Smoked", "Used to Smoke", "Current Smoker", 
@@ -157,7 +156,9 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                                  trends across Scotland on a map. The user can select either
                                  'Smoking' or 'E-cigarette Use' and can also be filtered
                                  by sex. The results are then displayed on the map."),
-                              
+                              br(),
+                              h4(strong("Smoking and Cardiovascular Conditions Tab")),
+                              h4("This tab allows the user to BLAH."),
                               br(),
                               hr(),
                               
