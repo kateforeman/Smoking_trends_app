@@ -1,5 +1,3 @@
-
-
 library(shiny)
 library(shinydashboard) 
 library(shinythemes)
@@ -17,22 +15,23 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                           sidebarLayout(
                             sidebarPanel(
                               br(), 
-                              br(), 
-                              br(), 
-                              br(), 
-                              selectInput("indicator", label = "Select Indicator", 
+                              br(),
+                              selectInput(
+                                          "indicator", label = "Select Indicator data", 
                                           choices = c("Life Satisfaction", 
                                                       "Mental Wellbeing", 
                                                       "Life Expectancy"), selected = 
-                                            "Life Satisfaction"),
-                              conditionalPanel(condition = "input.indicator != 'Life Expectancy'",
-                                               checkboxInput("sex", label = "Break Down by Sex"))
+
+                                            "Life Satisfaction"), 
+                              conditionalPanel(condition = "input.indicator !== 'Life Expectancy'",
+                                               checkboxInput("sex", label = "Break Down by Sex")) 
                             ),
-                            
+
                             mainPanel(
-                              h2("General Health Questionnare, Mental Wellbeing 
-                                 and Life Satisfaction"),
-                              
+
+                              h2("Life Satisfaction, Mental Wellbeing 
+                                 and Life Expectancy"),
+
                               conditionalPanel(condition = "input.indicator == 'Life Satisfaction'",
                                                plotOutput(outputId = "life_satisfaction")),
                               conditionalPanel(condition = "input.indicator == 'Mental Wellbeing'",
@@ -41,11 +40,13 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                                                plotOutput(outputId = "life_expectancy"))
                               
                             )
-                          )
-                 ), # <--- closes general health tab panel
+
+                      )
+                 ),  # <--- closes general health tab panel
                  
                  # smoking trend tab:
                  
+
                  tabPanel("Scottish Smoking and E-cigarette Trend", 
                           sidebarLayout(
                             sidebarPanel(
