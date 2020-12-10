@@ -11,7 +11,7 @@ local <- read_csv("data/scottish_survey_local.csv") %>%
 
 local_filtered <- local %>% 
   select(-units, feature_code) %>%
-  filter(scottish_health_survey_indicator == 
+  filter(scottish_health_survey_indicator %in% 
            c("Any cardiovascular condition: Has a cardiovascular condition", 
               "Smoking status: Current smoker")) %>% 
   filter(measurement == "Percent") 
