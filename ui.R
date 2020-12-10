@@ -151,9 +151,7 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                               h4(strong("Scottish Smoking and E-cigarette Trend Tab")),
                               h4("This tab allows the user to view smoking and e-cigarette
                                  trends. The user can select one or multiple indicators,
-                                 which will plot the results accordingly. Included within
-                                 the indicator selections are 'Asthma' and 'Cardiovascular'
-                                 trends."),
+                                 which will plot the results accordingly."),
                               br(),
                               h4(strong("Scottish Smoking and E-cigarette Usage by Location Tab")),
                               h4("This tab allows the user to view smoking and e-cigarette
