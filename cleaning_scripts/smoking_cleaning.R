@@ -4,28 +4,32 @@
 library(tidyverse)
 library(janitor)
 
-# load in data: ----
+# source in cleaning script: ----
 
-smoking_data <- read_csv("data/smoking_by_sex.csv") %>% 
-  clean_names()
+source("cleaning_scripts/part2_data_cleaning.R")
 
-# arrange by year: ----
+# assign as object: ----
 
-smoking_data <- smoking_data %>% 
-  arrange(year)
+smoking_data_updated <- overall_scotland_part2_cleaned 
 
 # recode: ----
 
-
-smoking_data <- smoking_data %>%
-  mutate(smoking_data, categories = recode(
-    categories, "Never smoked/Used to smoke occasionally" = "Never Smoked",
-    "Used to smoke regularly" = "Used to Smoke",
-    "Current smoker" = "Current Smoker",
-    "Currently using" = "E-cigarette: Current User",
-    "Ever previously used" = "E-cigarette: Previous User",
-    "Never used" = "E-cigarette: Never Used")
+smoking_data_updated <- overall_scotland_part2_cleaned  %>%
+  mutate(smoking_data_updated, scottish_health_survey_indicator = recode(
+    scottish_health_survey_indicator,
+    "Doctor-diagnosed asthma: No" = "Non-asthmatic",
+    "Smoking status: Never smoked/Used to smoke occasionally" = "Never Smoked",
+    "Any cardiovascular condition: No cardiovascular condition" = "Cardiovascular Condition: No",
+    "Any cardiovascular condition: Has a cardiovascular condition" = "Cardiovascular Condition: Yes",
+    "Smoking status: Used to smoke regularly" = "Used to Smoke",
+    "E-cigarette use: Currently using" = "E-cigarette: Current User",
+    "E-cigarette use: Ever previously used" = "E-cigarette: Previous User",
+    "E-cigarette use: Never used" = "E-cigarette: Never Used",
+    "Smoking status: Current smoker" = "Current Smoker",
+    "Doctor-diagnosed asthma: Yes" = "Asthmatic"
     )
+    )
+
 
 
 
