@@ -5,7 +5,7 @@ source("ggplots/life_expectancy_plot.R")
 source("ggplots/life_satisfaction.R") 
 source("cleaning_scripts/smoking_cleaning.R")
 source("cleaning_scripts/map_data_prep.R")
-
+source("ggplots/correlation_plot.R")
 
 server <- function(input,output){
   
