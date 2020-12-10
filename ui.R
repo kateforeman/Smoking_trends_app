@@ -158,7 +158,13 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                                  by sex. The results are then displayed on the map."),
                               br(),
                               h4(strong("Smoking and Cardiovascular Conditions Tab")),
-                              h4("This tab allows the user to BLAH."),
+                              h4("According to the CDC, smoking is a major risk factor for 
+                                 cardiovascular disease. The risk of heart attacks drop within 
+                                 a year of quitting smoking. Given this, we carried out a 
+                                 correlation to see if there was a statistically significant 
+                                 relationship between current smokers and cardiovascular 
+                                 conditions. We did not find a statistically significant 
+                                 correlation using the most recently available data."),
                               br(),
                               hr(),
                               
