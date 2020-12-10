@@ -6,6 +6,8 @@ library(shinythemes)
 library(shinyWidgets)
 
 indicator_choices <- c("Never Smoked", "Used to Smoke", "Current Smoker", "E-cigarette: Current User", "E-cigarette: Previous User", "E-cigarette: Never Used")
+indicators_for_map <- c("Currently Smoking", "Currently using E-cigarette")
+
 
 ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"), 
                  tabPanel("General Health",
@@ -81,12 +83,20 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                  tabPanel("Smoking and E-cigarette Usage by Location",
                           sidebarLayout(
                             sidebarPanel(
-                              h3("Brief introduction to the data e.g. SIMD overview")
+                              radioButtons(inputId = "mapindicator", 
+                                           label = "Choose Smoking or E-cigarette Use:",
+                                           choices = indicators_for_map),
+                              
+                              radioButtons(inputId = "mapsex",
+                                           label = "Choose Sex",
+                                           choices = c("All", "Male", "Female")),
+                              
+                              actionButton(inputId = "map_update",
+                                           label = "Update Map")
                             ),
                             
                             mainPanel(
-                              h2("A breakdown of smoking and e-cigarette usage 
-                                 by region and SIMD in Scotland")
+                              plotOutput(outputId = "map")
                             )
                           )
                  ), # <--- closes smoking map tab panel
