@@ -37,14 +37,19 @@ server <- function(input,output){
       filter(sex == "All",
              scottish_health_survey_indicator %in% input$smoking_indicator) %>% 
       ggplot(aes(x = date_code, y = percent, colour = scottish_health_survey_indicator)) +
-      geom_point() +
+      geom_point(aes(shape = smoke_ecig_flag)) +
       geom_line() +
       scale_x_continuous(breaks = c(2008, 2009, 2010, 2011, 2012, 2013,
                                     2014, 2015, 2016, 2017, 2018, 2019), limits = c(2010, 2019)) +
       scale_y_continuous(breaks = c(0, 10, 20, 30, 40, 50, 60, 70, 80, 90), 
                          limits = c(0, 90)) +
-      labs(x = "Year", y = "Percent", title = "Smoking and E-cigarette Use", colour = " ") +
-      theme_light()
+      labs(x = "Year", 
+           y = "Percentage of Adults", 
+           title = "Smoking and E-cigarette Use", 
+           colour = " ", 
+           shape = " ") +
+      theme_light() +
+      theme(axis.text.x = element_text(angle = 90))
     }) 
   
   output$correlation <- renderPlot({

@@ -11,8 +11,6 @@ indicators_part2 <- c("Smoking status: Never smoked/Used to smoke occasionally",
                       "E-cigarette use: Ever previously used",
                       "E-cigarette use: Never used",
                       "E-cigarette use: Currently using",
-                      "Doctor-diagnosed asthma: No",
-                      "Doctor-diagnosed asthma: Yes",
                       "Any cardiovascular condition: Has a cardiovascular condition",
                       "Any cardiovascular condition: No cardiovascular condition")
 

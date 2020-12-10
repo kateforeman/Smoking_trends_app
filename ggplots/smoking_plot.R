@@ -17,9 +17,10 @@ smoking_ecigarette_use_data_plot <- smoking_data %>%
   scale_y_continuous(breaks = c(0, 10, 20, 30, 40, 50, 60, 70, 80, 90), 
                      limits = c(0, 90)) +
   labs(x = "Year", y = "Percent", title = "Smoking and E-cigarette Use", colour = " ") +
-  theme_light() 
+  theme_light() +
+  theme(axis.text.x = element_text(angle = 90))
 
-smoking_ecigarette_use_data_plot
+
 
 
 
@@ -36,9 +37,10 @@ smoking_data_plot <- smoking_data %>%
   scale_y_continuous(breaks = c(0, 10, 20, 30, 40, 50, 60, 70, 80, 90), 
                      limits = c(0, 90)) +
   labs(x = "Year", y = "Percent", title = "Smoking Status", colour = " ") +
-  theme_light() 
+  theme_light() +
+  theme(axis.text.x = element_text(angle = 90))
 
-smoking_data_plot
+
 
 
 # make a plot for e-cigarette use only: ----
@@ -55,9 +57,10 @@ e_cigarette_use_data_plot <- smoking_data %>%
   scale_y_continuous(breaks = c(0, 10, 20, 30, 40, 50, 60, 70, 80, 90), 
                      limits = c(0, 90)) +
   labs(x = "Year", y = "Percent", title = "E-cigarette Use", colour = " ") +
-  theme_light() 
+  theme_light() +
+  theme(axis.text.x = element_text(angle = 90))
 
-e_cigarette_use_data_plot
+
 
 # end ----
 

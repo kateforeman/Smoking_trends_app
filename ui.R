@@ -8,9 +8,7 @@ indicators_for_map <- c("Currently Smoking", "Currently using E-cigarette")
 
 indicator_choices <- c("Never Smoked", "Used to Smoke", "Current Smoker", 
                        "E-cigarette: Current User", "E-cigarette: Previous User", 
-                       "E-cigarette: Never Used", "Asthmatic",
-                       "Non-asthmatic", "Cardiovascular Condition: Yes",
-                       "Cardiovascular Condition: No")
+                       "E-cigarette: Never Used")
 
 
 
@@ -18,10 +16,12 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                  tabPanel("General Health",
                           sidebarLayout(
                             sidebarPanel(
+                              h4("Life Satisfaction, Mental Wellbeing 
+                                 and Life Expectancy"),
                               br(), 
                               br(),
                               selectInput(
-                                          "indicator", label = "Select Indicator data", 
+                                          "indicator", label = "Select Indicator:", 
                                           choices = c("Life Satisfaction", 
                                                       "Mental Wellbeing", 
                                                       "Life Expectancy"), selected = 
@@ -32,9 +32,6 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                             ),
 
                             mainPanel(
-
-                              h2("Life Satisfaction, Mental Wellbeing 
-                                 and Life Expectancy"),
 
                               conditionalPanel(condition = "input.indicator == 'Life Satisfaction'",
                                                plotOutput(outputId = "life_satisfaction")),
@@ -55,17 +52,20 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                           sidebarLayout(
                             sidebarPanel(
                               
-                              h2("Changes in smoking and e-cigarette usage over time"),
+                              h4("Changes in Smoking and E-cigarette usage over time"),
                               
                               br(),
                               br(),
                               
                               pickerInput(inputId = "smoking_indicator", 
-                                          (h4("Select Indictaor")),
+                                          ("Select Smoking Status:"),
                                           choices = indicator_choices,
-                              options = list(`actions-box` = TRUE),
+                              options = list(`actions-box` = TRUE,
+                                             `none-selected-text` = "Smoking Status",
+                                             `selected-text-format` = "static"),
                               multiple = T,
                               width = NULL,
+                              selected = indicator_choices
                               ),
                               
                               br(),
@@ -87,12 +87,16 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                  tabPanel("Smoking and E-cigarette Usage by Location",
                           sidebarLayout(
                             sidebarPanel(
+                              h4("Smoking and E-cigarette use per Health Board"),
+                              
+                              br(),
+                              
                               radioButtons(inputId = "mapindicator", 
                                            label = "Choose Smoking or E-cigarette Use:",
                                            choices = indicators_for_map),
                               
                               radioButtons(inputId = "mapsex",
-                                           label = "Choose Sex",
+                                           label = "Choose Sex:",
                                            choices = c("All", "Male", "Female")),
                               
                               actionButton(inputId = "map_update",
@@ -107,8 +111,8 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                  
                  tabPanel("Smoking and Cardiovascular Conditions", 
                           mainPanel(
-                            h2("The relationship between smoking in Scotland and 
-                               cardiovascular conditions", 
+                            h2("The Relationship between Smoking and 
+                               Cardiovascular Conditions in Scotland", 
                                br(), 
                                br(), 
                             plotOutput(outputId = "correlation"))
@@ -157,6 +161,10 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                                  'Smoking' or 'E-cigarette Use' and can also be filtered
                                  by sex. The results are then displayed on the map."),
                               br(),
+                              h4("The map displays data for 2016-2019."),
+                              
+                                 
+                              br(),
                               h4(strong("Smoking and Cardiovascular Conditions Tab")),
                               h4("According to the CDC, smoking is a major risk factor for 
                                  cardiovascular disease. The risk of heart attacks drop within 
@@ -194,6 +202,18 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                               summing the response to each item answered on a 1 to 5 Likert scale ('none of the 
                               time', 'rarely', 'some of the time', often', 'all of the time'). The total score 
                               ranges from 14 to 70 with higher scores indicating greater wellbeing."),
+                              
+                              br(),
+                              
+                              h4(strong("Life Expectancy")),
+                              h4("Life expectancy refers to the number of years that a person could expect to 
+                                 survive if the current mortality rates for each age group, sex and geographic 
+                                 area remain constant throughout their life. This is referred to as ‘period life 
+                                 expectancy’ and does not usually reflect the actual number of years that a person 
+                                 will survive. This is because it does not take into account changes in health care 
+                                 and other social factors that may occur through someone’s lifetime. However, life 
+                                 expectancy is a useful statistic as it provides a snapshot of the health of a population 
+                                 and allows the identification of inequalities between populations."),
                               
                               br(),
                               
