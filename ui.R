@@ -257,6 +257,10 @@ ui <- navbarPage("Scottish Health", theme = shinytheme("flatly"),
                                 "SHeS Main Reports"),
                               
                               br(),
+                              
+                              a(href = "https://www.cdc.gov/tobacco/data_statistics/sgr/50th-anniversary/pdfs/fs_smoking_CVD_508.pdf",
+                                "Info on link between tobacco use and cardiovascular disease"),
+                              
                               br(),
                               
                               
