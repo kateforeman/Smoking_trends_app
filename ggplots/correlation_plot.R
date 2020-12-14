@@ -35,4 +35,4 @@ correlation_plot <- ggscatter(local_filtered_pivot,
           cor.method = "pearson", 
           xlab = "Percentage of smokers", 
           ylab = "Percentage of those with a cardiovascular condition")  
-class(correlation_plot) 
+ 
