@@ -22,4 +22,4 @@ on using the dashboard and links to the data we used.
 
 Here is a screenshot of the first tab and the options that are available to the user to give an understanding of the style of our dashboard. 
 
-![](http://github.com/kateforeman/Smoking_trends_app/images/first_tab)
+![Screenshot](first_tab.png) 
