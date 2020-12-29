@@ -25,18 +25,29 @@ tab below.
 
 Here the user can select their own indicators to explore smoking and e-cigarette use and quitting behaviour from 2010 to 2019. 
 
+![Screenshot](images/second_tab.png) 
+
 ### Tab 3 
 
 The third tab allows the user to view smoking or e-cigarette use by location - this is broken down by regional health board boundaries. If the user would like to 
 filter the data down further, there is an option to break the map down by sex. 
 
-In the fourth tab a correlation between smoking and cardiovascular disease can be found. This 
-was not statistically significant, however it can be updated with new data by a contributor as more data becomes available. The fifth tab provides information 
-on using the dashboard and links to the data we used. 
+![Screenshot](images/third_tab.png) 
 
-Here is a screenshot of the first tab and the options that are available to the user to give an understanding of the style of our dashboard. 
+### Tab 4 
 
-![Screenshot](images/first_tab.png) 
+In the fourth tab a correlation between smoking and cardiovascular disease can be found. This was not statistically significant, however it can be 
+updated with new data by a contributor as more data becomes available. 
+
+![Screenshot](images/fourth_tab/png) 
+
+### Tab 5 
+
+The final tab provides information on using the dashboard and links to the data we used. 
+
+![Screenshot](images/fifth_tab.png) 
 
 ## Using the dashboard 
+
+Clone this repo and open the Smoking_trends_app.Rproj file in Rstudio. Use the UI.R and server.R files to open and run this app. 
 
