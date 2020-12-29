@@ -23,3 +23,6 @@ on using the dashboard and links to the data we used.
 Here is a screenshot of the first tab and the options that are available to the user to give an understanding of the style of our dashboard. 
 
 ![Screenshot](images/first_tab.png) 
+
+## Using the dashboard 
+
