@@ -39,7 +39,7 @@ filter the data down further, there is an option to break the map down by sex.
 In the fourth tab a correlation between smoking and cardiovascular disease can be found. This was not statistically significant, however it can be 
 updated with new data by a contributor as more data becomes available. 
 
-![Screenshot](images/fourth_tab/png) 
+![Screenshot](images/fourth_tab.png) 
 
 ### Tab 5 
 
@@ -51,3 +51,15 @@ The final tab provides information on using the dashboard and links to the data 
 
 Clone this repo and open the Smoking_trends_app.Rproj file in Rstudio. Use the UI.R and server.R files to open and run this app. 
 
+## File structure 
+
+There are four main folders - cleaning_scripts (holds the scripts for cleaning each dataset), data (holds the raw data), ggplots (contains the code for
+each ggplot we used) and images (here are the screenshots for this readme).  
+
+There are also individual files outwith a folder structure - ui.R, server.R, app.R and the readme.md. 
+
+## Links to the data and references 
+
+https://statistics.gov.scot/home 
+https://www.gov.scot/collections/scottish-health-survey/
+https://www.cdc.gov/tobacco/data_statistics/sgr/50th-anniversary/pdfs/fs_smoking_CVD_508.pdf 
